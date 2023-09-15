@@ -97,3 +97,7 @@ Por último, la carpeta <em>documentacion</em> contiene una serie de archivos qu
 - API Yelp para generar informacíon actualizada de los comercios
 - Streamlit para implementar una interfaz de modelo de recomendación
 ![Stack Tecnologico](./Imagenes/stack_tecnologico.jpg)
+
+
+### Enlaces:
+Looker: https://lookerstudio.google.com/reporting/9790a648-f9cc-4c3f-a798-89fe829d7c3f/page/isZcD?utm_source=canva&utm_medium=iframely
