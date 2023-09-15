@@ -46,4 +46,4 @@ Google Functions permitió la implementación de nuestro script de Python para c
 Para obtener una descripción detallada de cómo implementamos Google Functions para obtener los datos de YELP y almacenarlos en un Bucket de Google Storage, consulte el archivo "FuncionYelp.ipynb".
 
 ### Stack Tecnologico
-![Stack Tecnologico](./imagenes/stack_tecnologico.jpg)
+![Stack Tecnologico](./Imagenes/stack_tecnologico.jpg)
