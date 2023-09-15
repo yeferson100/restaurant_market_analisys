@@ -1,0 +1,1255 @@
+gmap_id,nombre_restaurant,id_estado,cant_reviews,valoracion_promedio,SEG_DCP
+0x88d9b1f38dff4dff:0x61443de98cd9c88c,Crab Du Jour Cajun Seafood & Bar,FL,12,4.7,1
+0x88dd8019b7c4167b:0x7043f86a8346dcf3,Sizzler,FL,5,3.4,1
+0x88e44b7e69565ac5:0x3dfe920e1417a40c,Cajun Boil Express,FL,5,5.0,1
+0x8890eff2db2544cb:0x661d1a6f60aa3201,Cajun Crab,FL,0,4.0,1
+0x88dae33bfbda83ff:0xb8247ee5005e3d24,Dilly's Seafood Truck at Celebration Park,FL,0,4.5,1
+0x88d9b010f6400001:0x9e1911a7dcca6405,Nini Seafood,FL,0,4.8,1
+0x88d901bc6387dc57:0x485755851e90c952,Danny's Kitchen,FL,11,4.2,1
+0x88db3ffb4c4ed63b:0xdf072319e5b0cd21,Bratta's Seafood Steaks & Pasta Restaurant,FL,0,3.6,1
+0x88c302caf69f54f1:0xdbfcd85ccc764c4f,Sunsets' Tequila Bar at Loews Don CeSar Hotel,FL,0,3.6,1
+0x88e71286d860ae23:0x8f1e6c4ea94674a6,Joe's Crab Shack,FL,28,3.1,2
+0x88d8d69ac8872eed:0x27b6361453f3fee4,Del Frisco's Grille,FL,0,5.0,1
+0x88d8d9c41c7d6f61:0x2a19314ad351e01b,Malcolm's,FL,0,2.8,1
+0x88e5b4f34690250d:0x6ba06216c5411de4,Captain's Catch,FL,0,4.5,1
+0x88d8e218d8f60b33:0x59198f48e99f2472,13 American Table,FL,11,4.6,1
+0x88d9ba591d700baf:0xda28a38d3a9d364f,Atlantic Restaurant & Sport Lounge,FL,16,4.5,1
+0x88d9b7ccc71589f3:0x8c2e01f74a939004,Chart House - CLOSED,FL,12,3.1,1
+0x88dae2c9d6a75027:0x1d07c14380c72ba7,Nemo Sports Bar,FL,24,4.0,2
+0x88e5c5b33033e21b:0xe2393298c6949343,Tunis Seafood Wings Subs,FL,0,4.4,1
+0x88e77f012da4f8e5:0xec84885f62f0a379,Lolailo The Original,FL,0,3.7,1
+0x88d905db368b8d7b:0x28fddfae9a67f2b7,La Granja Parrila,FL,0,3.1,1
+0x88de61125e392837:0xef7af8b0e1e0265d,Sushi Factory,FL,0,4.7,1
+0x88d9b492aaaf8157:0x7f36b9e06462e074,Quinn's South Beach,FL,0,4.7,1
+0x88def19ce9332ce3:0x2feb1abc265ccbe1,McManus Seafood & More,FL,28,4.2,2
+0x88db41e2e1dbac35:0x69b74626354e343d,The Connection Bar & Grill,FL,10,4.1,1
+0x88e6d845b2600849:0xc7620c925e902f5,Randel's Fish Hut,FL,33,4.1,2
+0x88de1afd3ff7d88f:0xd722d51986b129d1,Q's Seafood One Stop,FL,16,4.2,1
+0x88d9b73a3fbac151:0xf36472990bbd45c,Lala's Seafood,FL,0,4.0,1
+0x88deec073464b5e1:0x9438177b22403959,The Cheesesteak Factory,FL,20,3.4,2
+0x88e6651b63aaa635:0x4ee6f7c7a991f384,Hard Dock Café,FL,0,3.7,1
+0x88938c4484278efb:0x78a608b8bf136fc4,Reggae J's,FL,0,4.2,1
+0x88db3eafa55587d3:0xfdf49b73692c0315,Skip One Beach Seafood Restaurant,FL,0,3.0,1
+0x88e5a1c92e6deaff:0x78a9e92f4275eec8,BJ's Seafood & Sportsbar,FL,0,3.1,1
+0x88e6d98a383c1f0f:0xff2a73ae27b47c7f,Blue Grotto Restaurant and Nightclub,FL,0,3.1,1
+0x88d1b6ec5e2e13b9:0x9ef54bf7e4d62978,Key West Conch Fritter,FL,0,3.8,1
+0x88d9083dd5496e8b:0xa284a474ae750b74,Mr. & Mrs. Crab Juicy Seafood & Bar,FL,14,4.7,1
+0x88d9b78c9b696ecf:0xb8418f337b696553,Mana Poke Downtown Miami,FL,0,4.9,1
+0x88df2a212d1d60f5:0x7380895a9bb43ece,Driftwood Plaza,FL,0,5.0,1
+0x88c2902cf427c49f:0x7fb0bc058fd41f07,Downtown Gyro & Seafood,FL,19,3.7,1
+0x88e77170e1e3f567:0xf53c8ca47a21bdf7,Wassabi Asian Fusion,FL,0,5.0,1
+0x88d9b49b81527bad:0x27350a1172c4c10e,Pilikia By the Pool,FL,0,4.7,1
+0x88d9abc90f605ab7:0x773b4979c6d774a9,HotLime Tacos & Ceviches - MIA Market,FL,11,4.1,1
+0x88d9b95136c6b235:0x7cbee5b20357676f,Hey Ceviche,FL,15,4.7,1
+0x88e5b41d8f0a8f99:0x5b5121fa5119129b,University Crab Shack,FL,42,4.6,2
+0x88d8df5a51f0b3f3:0xecd755fcef30976d,Snappers Seafood,FL,0,3.2,1
+0x88c33de178602a8d:0xdd187c6e1f18e516,Las Sirenas - Mariscos - Sinaloa-Style Mexican,FL,0,3.6,1
+0x88e8a58ebd1fa00f:0xbdc7f30a5beb6af6,Popeyes Louisiana Kitchen,FL,12,3.5,1
+0x88c33ff06a632343:0x17a7ae05d98e19ab,Painter's Palate,FL,12,4.2,1
+0x88e427be6c45802d:0xe33e17f7f48b7691,The Original Likit fish & chips,FL,12,3.9,1
+0x88d8d63e90d2f76b:0x441ed11f4cb60d41,Cafe Toscano,FL,0,3.8,1
+0x88d9b69062cd6e39:0xac4133a3fe37dac5,Garcia's Fish Market,FL,0,4.9,1
+0x88c303e317efbdbb:0xa820f0bbef65b916,Gulf Primeval On The Rooftop,FL,0,5.0,1
+0x88d8d660a6385089:0x9a7b18cc22912a9b,McCormick & Schmick's Seafood Restaurant,FL,0,3.3,1
+0x88d9afc509e74223:0x7802fb49ad773c6,Crab Garden,FL,0,4.6,1
+0x88d1b6e9d3321b9f:0xef828e83d91c7617,Overboard Bar & Grill,FL,0,3.0,1
+0x88c316bb70704c6b:0x4034c7e189726eda,Stonewood Grill & Tavern,FL,0,4.2,1
+0x88c2c4f179ed3d69:0x5aec3a1ceaeac460,Tinatapa's,FL,0,3.5,1
+0x88c2fd5c0e35d8d9:0x7e9e0d8856c4a2a3,Steam & Chill Restaurant & Lounge,FL,0,4.4,1
+0x88938617bc8343ed:0xbef5787f91b5d1e2,Flamingo Joe's Grill,FL,0,4.5,1
+0x88e7ebfdfd86a9f3:0x375431f5845b2f63,Popeyes Louisiana Kitchen,FL,0,4.0,1
+0x88d9274bdf7eb1d9:0xbabb77abd356b780,"Crab, Shrimp,Sea Food Platter",FL,11,4.8,1
+0x88d9a521c22aee57:0x82da8fe113d3d55e,Mrs. Paella,FL,0,5.0,1
+0x88e77fb4f5675e59:0x70fc30370eec423a,The Frying Dutchman,FL,0,3.0,1
+0x88938647b930044f:0x6ba9a522b36acf78,Boatyard Restaurant,FL,0,4.1,1
+0x88e0aa6ccc24e201:0x5bbf7075fe12f97,Celebration Pizza and Pasta,FL,0,3.6,1
+0x88c339f25c8f60b5:0x11102d90737e2f64,George's Seafood House,FL,18,4.3,1
+0x88d906d3523e769d:0x5e8af65578e3627e,Fish N Things,FL,0,2.7,1
+0x88ecf52d9ea55555:0x76597612597c8607,Conchman Conway Llc,FL,22,4.8,2
+0x88dd7eb789bbe7c7:0xd308d29b41411fe2,Angel's Lobster & Seafood Buffet,FL,0,2.0,1
+0x88d9213f7a44eba3:0x8ef84f508463187a,Red Crab Juicy Seafood & Bar,FL,26,4.3,2
+0x88d907bbae70251b:0xb0109b5e0d983912,Popeyes Louisiana Kitchen,FL,13,4.1,1
+0x88db5990e00a7187:0xabb4d9f2c74c8fbc,CAPT BILLS HOT DELICIOUS SEAFOOD,FL,14,4.7,1
+0x88c2b5830bd6aaff:0x9293174993fd101a,Fish Fiesta,FL,15,4.7,1
+0x88e77a381b4a1113:0xcb21264c17e08239,Kajun Cave Seafood,FL,0,5.0,1
+0x88c2e3b901aefa85:0x9d4e141c3d6025da,Captain Crab - 49th St.,FL,28,3.7,2
+0x88dae232ba115555:0x671a672db2b82ccd,Floridita Cuban Cafe and Restaurant,FL,37,4.2,2
+0x88e0b3a97325561b:0x65cf6f950600f1ed,Peoples Choice Mobile Food Service,FL,0,5.0,1
+0x88d9b4f16d4cab83:0x14261620f9c94e46,La Gloutonnerie,FL,0,4.6,1
+0x88e5ba73a7572d5d:0x20bf228f414ec321,Okee's Crabhouse & Seafood,FL,0,4.6,1
+0x88c3171da1b66ed1:0x9fc5ba0f5a24b26a,The Hungry Parrot,FL,0,3.8,1
+0x88c3409f31a3ed67:0xddeea50293f57f44,Tin Fish at Sarasota Commons,FL,0,4.3,1
+0x88e71494d6c9e2ff:0xa79d237f81f74d07,Da'Munchies Express,FL,0,4.6,1
+0x88c2e3345105b749:0xd1203de3bf367207,Crystal Cove Crab Shack,FL,20,4.0,2
+0x88dd7fdba9200065:0x81367cc5f5f84d62,Plancha,FL,25,4.5,2
+0x88e6df90fb2b941d:0xf0ffcc46960fcd62,Gene's Steak House,FL,0,3.0,1
+0x88e42794b458b71f:0xdbbd6bf778241bbe,Oyster Creek Eatery,FL,0,4.7,1
+0x88d9b3154001fa7b:0x39f52b6f23c00389,Cabana Beach Club,FL,0,3.8,1
+0x88c4a991d14c3709:0xfecb7097aca07d6,Cut Right Seafood Inc,FL,0,4.6,1
+0x88c2c611ab130713:0x6ff48691ef62eec5,Sa'Mo Foods,FL,27,4.7,2
+0x88dd7f40d0aaec9f:0x669abf817f447803,Ballroom/Restaurant,FL,0,2.0,1
+0x88d9c412a4e7bccd:0x28ec2d5c6e5489c4,Mighty's Kitchen,FL,0,4.6,1
+0x88db3f59991e7cb7:0x975538c6830b3340,Seafood Market,FL,0,4.7,1
+0x88e77be71b02991d:0x250193aa4ba73f68,Pokeworks,FL,20,4.7,2
+0x88d9a160fe1eb831:0x20c54cb27ec39be3,Pura Brasa,FL,0,4.3,1
+0x88915eb22fe0868b:0x48ccf534fdb199bd,Graffiti & The Funky Blues Shack,FL,0,3.3,1
+0x88dedc2e55cf7289:0x5d9e5af49b9b5a46,Loft Restaurant and Tiki bar,FL,40,4.2,2
+0x88e5b4f404cd7bc3:0xe20f89d3a1032a0c,Outback Steakhouse,FL,29,3.5,2
+0x88e729583a65478f:0x64df65575a90d7bd,Outback Steakhouse,FL,0,2.5,1
+0x88e5b0a6dbadf0a1:0x7c5ff538c5c73ae4,Poppa's Crab Shack,FL,0,4.6,1
+0x88dedd953dd83d13:0xc219350bca0b9aa7,Coral Seafood of Florida,FL,67,4.7,3
+0x88c36a0a3bf1353d:0x2ac7bb945516c790,eat here Siesta Key,FL,0,4.3,1
+0x88d90727f3a79357:0xe56c041e7517c25c,Suzie cuisine,FL,0,4.6,1
+0x88d901c03dbf67f7:0xd20d4a844f0839fa,Dapur Asian Tapas Restaurant and Lounge,FL,15,4.6,1
+0x88d0d1e65541ac41:0xe021e769b4dadfe9,Sixty-One Prime,FL,15,3.5,1
+0x88d9b7e8a33af5a7:0xbdeb5c3f893af29c,Estación Central - Central Station,FL,0,4.8,1
+0x88e77931d2de0625:0x7d1746f914641c19,Bashu Hot Pot,FL,14,4.5,1
+0x88d9c75397011ebf:0xeff251c9c6e38872,Wood label bistro,FL,11,4.9,1
+0x88c2ef6dc0b7ae31:0xeb3da68d63125a76,The Dancing Crab,FL,21,4.5,2
+0x88db1c3cbcafd5d5:0xf1a84e378c86b7fd,Lemonía,FL,0,4.7,1
+0x88c4b2592c2fd4f9:0xfb7931caadd3d3e0,Boca Bay Pass Club,FL,0,4.8,1
+0x88de1d674df15f23:0x1ea4e6ac2bd0a2b5,3 Wishes Restaurant & Lounge,FL,0,3.9,1
+0x8890979511814763:0x19340a689e5c95c5,Popeyes Louisiana Kitchen,FL,24,3.2,2
+0x8893e46326a73c7b:0x4c8b0ae708351a2a,Grayton Bar & Grill,FL,15,4.6,1
+0x88d9b2146f62885b:0x5cc9cd48586b0286,Panarea Mediterranean Sea Grill,FL,15,4.6,1
+0x88d8d660f96eb34f:0xaa684cf9fd22747c,Bowery Coastal,FL,12,3.8,1
+0x88e713879bfb0063:0x1c2fef7502ef2c5b,The Current Seafood Counter,FL,0,5.0,1
+0x88d9b9ce3cd27863:0x26d78e1795682049,Pescados Y Mariscos,FL,0,4.7,1
+0x88d9b49c9a77cba9:0xf07bfc2a22d237ed,The Fish on 1826,FL,0,3.9,1
+0x88dd7b02dd06f4d7:0x4d8f067ec1306a2c,Olive Garden Italian Restaurant,FL,40,4.1,2
+0x88dd3df71c8e6d8f:0x4f6fea0094fe8638,Jimmy’s Famous Seafood Express Food Truck,FL,0,4.6,1
+0x88d9061ac2bd6483:0xff1c0c58a40c2cef,Lobster House Restaurant,FL,0,2.5,1
+0x88c2c3817ddc5ac9:0x7352604c28fc18fe,813 Salads & Seafood,FL,34,4.2,2
+0x88e695593192b1e1:0xb62567596de79209,Red Crab - Juicy Seafood,FL,10,4.2,1
+0x88db49932a7ecb0f:0x5e882f1b0f47a538,China Garden III,FL,34,4.1,2
+0x88d0fd3d50f72531:0x93acdf0aa2dac6d6,Keys Cuisine,FL,12,4.6,1
+0x88c2c7a6d10768b9:0xe09ecff0544cb20b,King creamy seafood,FL,13,4.9,1
+0x88d9002c12198159:0xa1ef1733089703b2,Margarita Cantina,FL,27,3.9,2
+0x88e699c04eef520f:0xaf20de12437c4ce0,Matanzas Innlet Restaurant,FL,29,3.8,2
+0x88e7d5b3606159f3:0x6e857dae11aff156,Storming Crab,FL,14,3.6,1
+0x889144808551d29d:0xb12de4c7103c210c,Southern Restaurant Group,FL,0,4.3,1
+0x88c2e18d4eea7d8d:0xc1d65e67e409fecf,Mini Restaurant,FL,21,4.4,2
+0x88e88f8970d2dc51:0x8cfc13379b66992c,Popeyes Louisiana Kitchen,FL,55,2.6,3
+0x88db1e3dab40b1bd:0xcc9aa1587200cbed,Pate's Island Club,FL,0,4.7,1
+0x88d9a0aeab2192dd:0xd4fd9be3c8466d93,Mallardi's Tuscan Grill,FL,39,4.1,2
+0x88dd47767dc1cb8b:0xf79801687a9f61b,Long John Silver's,FL,26,3.0,2
+0x88de5da6f3276557:0x4536c6a8dc3e48fb,Chill & Grill Fresh Seafood & In House Smoked Meats,FL,0,4.4,1
+0x88c2e29be31763cd:0x73c6c5cf544793ca,Fish Bar and Grille,FL,38,4.3,2
+0x88d9b77a06a97169:0x4c9c6bd2842fd82b,MKT Kitchen,FL,30,4.6,2
+0x88d9ab9fefd1b0a7:0x1d9bc427c8ba6dc3,Argentango Grill,FL,0,2.1,1
+0x88e77ac38abf788d:0x1005b9142f425572,Davi Cajun Seafood,FL,0,4.5,1
+0x88d9c74acb1b8429:0x34c1dcec8db10ebb,Restaurant,FL,0,3.1,1
+0x8890bf47a6991f75:0x84d1cdec7288a3d7,Asian Seafood,FL,69,4.2,3
+0x88d9020de08de05d:0xe3f1c85698481dfa,BOHO World Cuisine and Entertainment,FL,0,4.8,1
+0x88c2f31f4efe6f51:0xeeab526e30daf283,shell shack,FL,24,4.1,2
+0x88dd842694b5809d:0x9b1a71174262c2b5,Casa Del Mar Cevicheria Ecuatoriana,FL,34,4.1,2
+0x88e6c061454891f9:0x4261afe4f6214e39,Crab Island Flagler,FL,33,4.7,2
+0x88d9019faf7c1253:0x3dd08333301cdff1,13 | EVEN,FL,0,4.8,1
+0x88c2e5c351d6a07f:0xf1f07247efd430ad,OCC Road House & Museum,FL,51,4.4,3
+0x88c2f98069e1ef09:0x7545841131bae297,RickDaddy's Eatin' Fresh,FL,15,4.8,1
+0x88e6c0648b1368a1:0x7d15df2c3b303e25,Fisherman's Net,FL,13,3.6,1
+0x88dae232ba6cc6ff:0xaf234870ea8f3759,Capt Marcos Cuban Seafood and More,FL,19,4.0,1
+0x88c33986c59ed423:0xda48455b992750db,Riviera Mediterranean Grille,FL,17,4.3,1
+0x88d8d5027284d0c3:0x74e760edbdda8659,The Badie Seafood and Grill,FL,63,3.9,3
+0x88def17279d3915f:0xffafc00c71a221d4,Fish Bone Collection ® Apparel,FL,0,5.0,1
+0x88c2c5e1d68d2d6f:0x1b2345c1c0bb7958,Gassetts Gyro & Seafood,FL,0,3.6,1
+0x88e779dda499714f:0xb1bb41bd95fda834,Orlando Fried Chicken,FL,0,4.4,1
+0x88ecf5ada79d123f:0x611fb8fc8ef93e1c,Masala Tandoor - Indo American Cuisine,FL,0,4.5,1
+0x88e5b4ecbed69bb1:0xbab563a18183c39,Carrabba's Italian Grill,FL,28,4.1,2
+0x88c2cdcc7aa50869:0xfc3f8d09db048763,The Seafood Dive,FL,0,4.3,1
+0x88e6654484a0a57d:0x8654d158a7c8b18c,Captain D's,FL,201,4.3,3
+0x88d739ca5b8bce1d:0x72b8ef36fca37665,Islas Moradas,FL,10,4.7,1
+0x88c34166fe2bc94d:0x9bdf23fb3c4ff855,Reef Cakes,FL,0,4.9,1
+0x88915bfa5831d93b:0xeb33ff4986947e65,SunQuest Cruises SOLARIS Dining and Entertainment Yacht,FL,17,3.9,1
+0x88c2c3766efd92a3:0xdd6f1670e0827377,The Sea,FL,44,3.9,2
+0x88e77ba18a424ed1:0xf17ed7cb2ee032bb,Notcho Momma's Food,FL,0,4.1,1
+0x88ece871d06b6e7b:0x62b8d0b8cc764663,West End Grille,FL,26,4.1,2
+0x88d9a66dfcc49c81:0xcd2529222f34142e,Brawy Seafood,FL,0,3.0,1
+0x88db34e86aaaaaab:0x7e9b19fdc3fceae,Over the Waterfront,FL,35,4.5,2
+0x88d909e302dc3c0f:0xb6dfefa92d7d67d6,Yami Crab & Bar,FL,19,4.3,1
+0x88d91e7bcdb33c35:0xfe11273eabac781,Legal Sea Foods,FL,0,3.6,1
+0x88e76e398b6fffff:0xf7448e8455dd4a1a,"Pier 36 Fish Camp, Seafood,Oyster, Tapas,Bar & Grill",FL,136,3.9,3
+0x88e449dab96a3a45:0x1ce10aab18d3c00d,Stonewood Grill & Tavern,FL,0,4.7,1
+0x88d9b8253215cb3b:0xf5b65c1df710207f,Fish Market & Restaurant,FL,39,4.5,2
+0x88d9c19b172c8b6b:0xce2f31b1e5f765fb,Crafty Crab - Sunset,FL,111,4.6,3
+0x88ecf59175787047:0x85b612c471b909ef,Barnacle Bill's,FL,15,3.4,1
+0x88ec5f3250585fb1:0x5f6f613d1fe01a20,Calico Jack's,FL,0,3.2,1
+0x88ece8706de43d95:0xbbf77862e8980dfc,Downunder Crab Shack LLC,FL,0,3.2,1
+0x88d9ad66d5c8e225:0x43f09779f58d73ef,Artisan Beach House,FL,0,4.2,1
+0x88dd9c8fe5c25f39:0x1fc6bd1f340ed078,The Grille at Bellalago,FL,32,4.2,2
+0x88d9b747b4445ead:0x8d7357cb9999d4de,Boss Cow Oyster Bar,FL,13,4.8,1
+0x88e5b510280178e5:0xed333707709151e6,Malula wings seafood subs salad,FL,55,4.6,3
+0x88db399a9ef876d9:0xd5f0e61569dee7d,Bluwave Lobster House,FL,44,4.6,2
+0x88e5b03a643f8eef:0x98d0e1bd1841d03e,The original Tunis seafood & chicken,FL,27,3.9,2
+0x88c2e3c0514fd137:0x472fc6e9a0198bbb,A&M SEAFOOD AND MORE,FL,0,5.0,1
+0x8890c5323b8b895d:0xf14ae5a0d07b1b44,Jelly's Beach Barbecue - BBQ,FL,24,3.9,2
+0x88d929792cd91ed5:0x66b418b2978c1bb8,Okeechobee Prime Seafood,FL,28,4.4,2
+0x88ec85cd859cae37:0x10f1781de8d714ae,B&B seafood,FL,11,3.2,1
+0x88d8df2617ce208b:0xb9cdf06da7ffab96,Jamerican Cuisine,FL,118,4.3,3
+0x88d901fc0a22b5c9:0x40ed8b776d11df2c,Chart House - CLOSED,FL,58,3.7,3
+0x88e77171a6e55555:0x9c4ed2d66624865a,Something Fishy - Altamonte Springs,FL,27,4.6,2
+0x88d8e21ce973d9fb:0x531eb8d51a945052,Truluck's,FL,66,4.3,3
+0x88c2e2223be84d77:0xe15c164c11bbb045,The Fantastic Crab Shack,FL,14,4.6,1
+0x8893e3a42ab1b64f:0xab3f5dcf271ba26c,Marie's Bistro,FL,25,4.3,2
+0x88e78e83a53f9c31:0xf1b9088a9c968e69,Rusty Fox,FL,0,2.9,1
+0x88d8d5d3741a778d:0xc89bfcd1c6852e34,Sports Page Bar & Grill,FL,18,4.0,1
+0x8893dd642882119b:0x6e78f6f0eb1e6acd,The Oar House and Oyster Bar,FL,14,4.7,1
+0x88d9ace0ae09045d:0x119e844b3b970b8b,Poseidon Sushi And Seafood Restaurant,FL,0,4.6,1
+0x88c2c34c0829a25d:0xd2426563688a3dea,The Colonnade Restaurant,FL,26,3.7,2
+0x88d9b4919310d553:0x46d2d3e4c19b829f,La Marea,FL,0,4.5,1
+0x88db3bee24ad05c5:0x8c372e85ba6e9776,Bongo's Bar and Grill,FL,46,4.1,2
+0x88e845efdf76c9dd:0x7bc4c5e3ae845d76,Brooks Dockside Seafood,FL,0,5.0,1
+0x88938eceb48366b3:0x2fcf32aa49b607a4,Bonefish Grill,FL,10,4.7,1
+0x88e7707a5065ec53:0x2254b4b5aca88181,Lombardi's Seafood Café,FL,69,4.4,3
+0x88c2c054886eb971:0x2b4daac055b79bb5,Happy Crab,FL,17,3.5,1
+0x88ec5f24909b899f:0xc57a68f19a03bff6,Cody's Original Roadhouse,FL,11,3.1,1
+0x88c2f731212d8a61:0xf901496851955498,Island Grille,FL,0,4.8,1
+0x88dd344f1eb344e7:0x8d683ae6efcbbec,The Captain Ship Seafood Market and Eatery,FL,14,4.6,1
+0x88de1ceb2058d387:0x2fa2b37d06aaaf30,Cape Codder,FL,21,4.7,2
+0x88dedd5d7656e3ad:0xc23900e3abe050a6,Spoto's Oyster Bar - Stuart,FL,19,3.9,1
+0x88d8e2609f8446ef:0xfd29dce3da8a14ef,Chanson Restaurant,FL,31,4.3,2
+0x88c2f747e970185b:0x7bfa3cd60ffe2856,Edge Hotel Clearwater Beach,FL,0,4.9,1
+0x88e60f316393ec6d:0x1dea41c4c6963e90,Cedar River Seafood,FL,33,4.3,2
+0x88e5b598b0edffff:0x5979d1b6ef31a8a7,145F SEAFOOD BOIL,FL,19,3.8,1
+0x88d9b147a83dffe3:0x35de37369f0770a1,Tightwork Soul & Seafood Grill,FL,12,4.5,1
+0x88dd136cf9fdebf1:0xb132210b99cd7345,The Crab House International Winter Haven,FL,16,4.3,1
+0x88d9b0f0aae3111b:0x4d7e119a8f4452a4,Golden China Buffet,FL,0,3.1,1
+0x88e449106e988b39:0x4934a2cd317480e6,spicy & juicy crawfish,FL,16,4.7,1
+0x88c33d93e81c6135:0xc35f09a33d24e59a,Polo Crab House LLC,FL,99,4.2,3
+0x88e5c761575fecef:0xb6a1f9dfc4bc8895,Ice Crab House,FL,18,4.8,1
+0x88daee5c01c3a1cb:0x404bc6e3ef7b690,Ario,FL,22,3.9,2
+0x88db411a155462af:0x56235ce50e1a30fc,The Twisted Crab Edison -Seafood&Bar,FL,12,3.7,1
+0x88ec5f8f0775c7f1:0x18a7d9390bae99a0,Drop Anchor Grill,FL,26,3.9,2
+0x88e77f0a1eb07ee9:0xaadb1c5387bd2f7a,Stefano's Italian Grill,FL,11,4.7,1
+0x8890c6f0d5654e79:0x2685dce24293548c,The Fishing Hole,FL,20,4.2,2
+0x88c33fb8f770ffff:0x80ed9325a1a15f19,Kutty's Restaurant,FL,37,4.6,2
+0x88de01e25bf7991d:0x53f0958152456f1d,Caribbean Cove Restaurant & Lounge,FL,27,4.3,2
+0x88c341b031c37c81:0xf9b9895b4ed5682,I N K A N T O Authentic Peruvian Cuisine,FL,13,4.0,1
+0x88d0cd4dd99a3b1b:0xa678aac19e8992b,Acquapazza Ristorante,FL,13,4.3,1
+0x88e455c8b8a36f2b:0xec548799c27c034a,Coast,FL,19,4.2,1
+0x88d8d7800bde2e2f:0x40dcf85b1ad210c9,L&E Fine Cooking,FL,25,4.5,2
+0x88d9b1f7c8c7c659:0x4ace3fdf7005c2ab,Suki's Seafood & Grill,FL,0,4.5,1
+0x88e5c7710a8c44b7:0x79f337fe201bf713,Londons Seafood Place,FL,72,4.2,3
+0x88d903f0093dd03f:0x3e003aed3f263d56,Thai Moon by the Sea,FL,180,4.4,3
+0x88e0a8f0bbad8581:0x14a508e8fe4580e6,Harbortown Marina - Canaveral,FL,29,4.6,2
+0x88c2f72b64eff7eb:0xd3700bb105edcbb2,The Lobster Pot Bistro,FL,0,1.8,1
+0x88da5c61ce82c10b:0x8daff96e00e6bfe2,Everglades Seafood Depot,FL,13,2.8,1
+0x88d0d1348b405f27:0x3b8d4464854d87da,Oasis Cay,FL,0,5.0,1
+0x88c341197b1ec465:0x7cbd1a42ef62558,SEABAR Modern Pacific Fare,FL,30,4.7,2
+0x88d9a9a177ed2ed5:0xf2ef1dabdae09304,First Crazy Fish,FL,0,5.0,1
+0x88d9c146054ecf55:0x93d1e54f38bb5374,Ceviche Bowl,FL,32,4.8,2
+0x88d9ad58be954c2d:0x7b1391cc97419585,Saka Mori Japanese Fusion,FL,0,5.0,1
+0x8890df0cf26a99e5:0xb134621194677cb7,Creekside Southern Grill Seafood Restaurant & Steakhouse,FL,0,4.2,1
+0x88c317e60796f9f1:0x1e7211ce04af53eb,Kevin's Crab Shack,FL,37,4.1,2
+0x88dd81ca7790213b:0xe2fde60b067b030c,La Finca Mexican Grill,FL,0,3.3,1
+0x88e5c51d09fad029:0xa9cb0616dd567d12,Escobar's Mexican Restaurant,FL,51,4.7,3
+0x889399320a120931:0x2954a2b42486a6a3,Sandhills Seafood,FL,64,4.4,3
+0x88e44acd4d87763d:0x3d4430ffed86ca7c,Gene's Seafood Restaurant,FL,30,3.8,2
+0x88e77850e0bdb251:0x4d367217c5112cf8,Red Lobster,FL,961,4.0,3
+0x88dae1e7902caf27:0x515c8ae6571aec6,Red Lobster,FL,619,3.9,3
+0x88c2f6d18d074e75:0x92851229c38ee622,Caretta on the Gulf,FL,182,4.3,3
+0x8891414e0a4a1543:0x93deb4bb8994ec87,Poppy's The Crazy Lobster Bar & Grill,FL,0,3.7,1
+0x88db3c72e56345ad:0xa0d972aea6d6de5b,Caribbean Flair International Grill restaurant,FL,12,4.4,1
+0x88c354a3034cb255:0x3e8cae167458f7e4,Olde World Restaurant,FL,894,4.3,3
+0x88c35a3246d56d2f:0x47a156a8bda5de88,Bonefish Grill,FL,630,4.2,3
+0x88c2f7285edcde81:0x5330282a7b96fc7a,SEA-GUINI,FL,288,4.6,3
+0x8890966585e36d3f:0x131d47c2c60a8d31,Gulf Coast Seafood Market and Restaurant,FL,303,4.5,3
+0x88de11527f8c59c5:0xf70c22f8fbfd3b90,Hog snappers,FL,0,5.0,1
+0x8890c5e78da67f03:0x78f1444714053a37,Paradise Bar & Grill,FL,500,4.6,3
+0x88dd841f3eb7ff9f:0xcc9b0e0482e18e17,Popeyes Louisiana Kitchen,FL,1077,3.6,3
+0x88c2fc47a68f1a2d:0x294e4adfef912193,Off The Hook Beach Bistro,FL,21,4.6,2
+0x88ec0166110950bd:0x619a72cfc30f3754,Revells Seafoods,FL,0,4.5,1
+0x88c291e89165e399:0xca3fcc4ab5fe5eb6,The Fish Guy,FL,643,4.5,3
+0x88e5c53ec1f9e113:0x8550f87f829a62a8,Shoreline Seafood Shack,FL,17,3.8,1
+0x88938ebcf956404d:0xa1d864bde4fc041a,Roselie Dining and Seafood Bar,FL,0,4.3,1
+0x8893ef8a365adb65:0x97df98dff15fdbac,Old Florida Fish House,FL,288,4.1,3
+0x88dd86c55fef7853:0x53627eba8a12a839,Hooters,FL,729,4.2,3
+0x88914155bd39c7a1:0xb7277935b874a699,Marina Cafe,FL,280,4.3,3
+0x88dd39d4b020c367:0x792689e9ebf62fe9,Riverside Express Seafood,FL,308,4.7,3
+0x88db46c2f8eda79f:0x12388b9257cd3ee,The Pickled Parrot Island Grill,FL,10,4.3,1
+0x8891435669050c33:0xb576eff4e3560b1a,Sarah K's Gourmet,FL,16,4.5,1
+0x88daef9f2db64d0b:0x6fe708f87ad816a9,Café de Marco,FL,82,4.4,3
+0x88e449e05e5969fd:0x98233320503add88,The juicy,FL,27,4.8,2
+0x88c2c5d5ca72c02f:0xba875d9c14a9dd46,Jerry's Market Restaurant,FL,0,4.3,1
+0x8894eb6573a1a95f:0xc984c1110f8037c4,"Triple Tails Oyster Bar & Grill, Liquor & Convenient Store",FL,55,3.9,3
+0x88dd473e41176501:0x9c4ec699dff0ec2c,Olive Garden Italian Restaurant,FL,1869,4.3,3
+0x88dd47408619323b:0x216f8c79bd2daeb,Hooters,FL,1327,4.0,3
+0x88e8a326aebc3283:0x8850ffd793b1509,Embers Wood Grill,FL,584,4.7,3
+0x88db47c8a9cfb7c3:0xc2d5f54d3a67e49b,Woody's Local Neighborhood Rum & Grille,FL,506,4.0,3
+0x8890bff6122114b1:0xc43cc4502ec61bc7,Miller's Ale House,FL,1584,4.2,3
+0x88db3d100117dfb5:0xfdc8be60282095dc,Fish House Restaurant - Ft. Myers Beach,FL,0,3.9,1
+0x88c2e18601b1a787:0x9b2e8460d54f8477,Mullet's Fish Camp & Market,FL,9,4.8,1
+0x88d9ab3ce41ed805:0xc5cd955d985373f8,5 o'Clock Somewhere Bar and Grill,FL,382,4.2,3
+0x88ecf57edca7c3d5:0x506dc0500d6b1f46,Crafty Crab North Monroe,FL,29,4.2,2
+0x88e5b73ba332d78d:0xea816e101c7d2873,Rod's Crab shack University,FL,59,4.7,3
+0x88c2c797db48455f:0x6ce1142212a69ca8,Yummi Crab Tampa,FL,0,3.0,1
+0x88e872100ba2eb7f:0x715eadb3b087cae,"VFW Post Beverly Hills,FL",FL,0,3.8,1
+0x88d9ad973484b32d:0x94867655f6f4cf53,Rubio's Coastal Grill,FL,16,4.5,1
+0x88e62d655914becd:0x4a294ab3a572d338,"Fry Daze - Seafood, Wings, & Subs",FL,0,4.4,1
+0x88c33f8e0a695555:0x9909104c25a04fba,Stroke's Seafood,FL,53,4.6,3
+0x88d90199327d793b:0xc4e798ec76da0,Mancora Ceviche Bar Fort Lauderdale,FL,30,4.7,2
+0x88dd81933ab9a5df:0xf7648236ae0299d1,Crack N Roll - Cajun Seafood • Sushi • Bubble Tea,FL,0,4.8,1
+0x88c2c644096b224d:0x678c2435588620e1,Roadside Seafood,FL,0,4.7,1
+0x88ec8aaf93aa4935:0x94d545a710427487,Mr Krabs,FL,0,4.8,1
+0x88c2fd4b8506bbed:0xa762a22d1bd613fe,Pasadena Steak House,FL,12,3.3,1
+0x889386ff01dd7b59:0xb93d8728e00436f2,TIDES Restaurant & Lounge,FL,0,4.3,1
+0x88d9a8f98d4383bf:0xea901e2562dfee9b,Micaela Peruvian Cuisine,FL,54,4.5,3
+0x88c2eddf42655c8d:0xc8665ebb2a8fd5cf,Besa Grill,FL,22,4.0,2
+0x88d9a7aeeebcad9f:0x4c7c9b15376f9ba8,Lou's Seafood and catering,FL,0,4.1,1
+0x88deeb08cec62e57:0xccdcabd5e7c36509,Kyle G's Oyster & Wine Bar,FL,15,4.8,1
+0x88d9072fd2d5d1c5:0xee7eb4f7d20bbadf,Seabar,FL,20,4.1,2
+0x88c36a91ff26d101:0x541e63a85567accd,Surf Shack Restaurant,FL,18,3.9,1
+0x88c35b622343fe1b:0x725819c3fb14e455,Cucina Gloria,FL,35,4.5,2
+0x88d9b3d5d96bcfc5:0x581d71910200d773,Bungalow By The Sea,FL,15,4.3,1
+0x88d9b3545eeb8329:0xc801bb7e6072d33c,KINOKO Sushi Bar & Asian Cuisine,FL,0,4.8,1
+0x88de0f82a9e8b457:0x80da7ec34653efbc,Scotty's Steak and Seafood Co.,FL,0,5.0,1
+0x88d8d7fe2c9fca9b:0xfd89c741ac0241e5,Seafood Of Palm Beach,FL,0,4.7,1
+0x8893862f57e8922d:0x361098b6f3ceebda,Buster's Boardwalk,FL,0,4.1,1
+0x88d9264db90d3393:0x31b930b7c0f88781,Nicole Seafood & Prime Rib Restaurant,FL,26,4.2,2
+0x8890bf086d945447:0x670661df2398a8d3,Island Fish and Grits,FL,12,4.7,1
+0x88c29019bb054387:0xaa5ecbf25fe8945d,Frankies Raw Bar,FL,114,4.6,3
+0x88e77b7240d5d257:0xa7b9f26a8a1f9675,Panda Asian Buffet,FL,15,3.0,1
+0x88e5ab25e9be6a51:0xc21b57744560a528,The Hidden Crab,FL,24,4.6,2
+0x88e44bc6f23a9585:0x3f1e40d05254a7ca,London's Fish N Chip,FL,64,4.1,3
+0x88c2c5713fce890f:0x63f550852faf114b,Pappys Devil Crabs,FL,0,4.4,1
+0x88deebe1fb1108af:0xbed0f937df185491,The Fish Market & Seafood,FL,0,4.5,1
+0x88d9b6845a6b6e5d:0x9681e8b39e939a32,The Oceanaire Seafood Room - CLOSED,FL,0,3.7,1
+0x88db6bc17c06abff:0x56ad48edf6039b80,Ceviches by Divino,FL,0,4.5,1
+0x88e729309129abc7:0x9ddcf17f86c3de60,Gypsy Fresh Grill,FL,0,4.5,1
+0x88d9b55b7e40e56f:0x71e7f91715f1b84d,Wave Coastal Cuisine,FL,0,4.0,1
+0x88dedd0d67b63663:0xaa34a558e20ad620,Stuart Grill & Ale,FL,0,3.4,1
+0x88dedd2eac1d39ef:0x264b94f85d3e974c,Bolly Twist,FL,0,4.8,1
+0x88d9b70740764631:0x331b76868e81b103,Yaya's Miami Sushi & Seafood Restaurant,FL,0,3.8,1
+0x88e5cd5c2bd9cb6b:0xdd571e51af26afcc,Randeez Nutz Express,FL,0,4.7,1
+0x88d9b0d080c457df:0x7138f4f77434ec1d,The Crab Stop of Miami,FL,0,4.1,1
+0x88d8d715c1fe5695:0xc36db49a28b8051e,Snappers fish & chicken,FL,0,4.3,1
+0x8890c6fb415d4c4d:0xeea6db8ccbb4d5c9,La Brisa,FL,0,4.4,1
+0x88d9b7cf88d9dd19:0x92a611fd02a90715,La Gamba Restaurant,FL,0,3.8,1
+0x88e7d4cd0e4ae9ab:0xebd75a2029c828a8,Uncle El's Seafood Restaurant,FL,0,4.2,1
+0x8890c1d1ff0c1e23:0x6d4dc61834e8f64d,Cracking Crab,FL,0,4.3,1
+0x88c2c529ccdd7097:0x8145ac5c7a9eabd4,Forever Young,FL,0,3.5,1
+0x88e5c425e4e9c263:0x4219685641470398,Hook Fish and Chicken,FL,0,4.0,1
+0x88def1ac3fc4b911:0x8be6a1e2b456db76,Costa Seafood & Grill,FL,0,4.1,1
+0x88d9096ae56b69b1:0x56ff1da0617c3a67,Ceviche Point,FL,0,4.7,1
+0x8893f1fdbba82733:0xb2dba1a7458b66c8,Acme Ice House,FL,0,3.3,1
+0x88e729483e9286a5:0x5d98af62f7ac569b,Dolphin View Restaurant,FL,0,4.3,1
+0x88d739ca57937567:0x1a68c3476c871585,Whale Harbor Marina,FL,0,4.4,1
+0x88e0aa50243ed943:0x637975b8395997aa,Long John Silver's,FL,0,2.3,1
+0x88c316b068acd2af:0xdb6ce13794bf46f6,Cafe di Lorenzo,FL,0,4.4,1
+0x88d9adfd9aea6649:0x64d7f31ed49f52af,Seafood Lovers Delight,FL,0,4.7,1
+0x88c291a44741aebf:0x1b54166d7d6dfabd,Paella & Tapas,FL,0,5.0,1
+0x88dd81bbbf7517cf:0xfa9fcc32e016014c,Kabab Cafe and Bakery,FL,0,4.6,1
+0x88d9a99777eab5cf:0xe08db9c93b85668c,Yami Crab & Bar,FL,0,4.7,1
+0x88e6da1595562259:0x71d0676a1c7669a4,Big Kahuna Seafood Shack & Tiki Bar,FL,0,4.0,1
+0x8893e569be89e2d9:0xb5f26c95791d5630,Pandora's Grayton Beach,FL,0,4.0,1
+0x88db3f77de5f8d07:0x33f17f218c181b89,The Fish & Vine,FL,0,4.2,1
+0x88e78281f9601ffd:0x8fdff29c66c8f7ec,Bates New England Seafood and Steakhouse,FL,0,3.9,1
+0x88d9b7816067dcaf:0x48efeaa60044a2d3,Portosole,FL,0,4.7,1
+0x88d9b7796d44e3f5:0x7c41bf6de8192eec,Mason's Famous Lobster Rolls,FL,0,4.2,1
+0x88e69d0325649103:0xb2796f145b044e2c,Mojo's Tacos-Mainland,FL,0,4.6,1
+0x88ecf542b79e1785:0xaba93eab531a5f50,Toni's Homestyle Cookin & Seafood,FL,0,4.4,1
+0x88e7295fb232c71b:0xa3ef7dbbfb4a6f00,Bird of Paradise New Smyrna Beach,FL,0,4.7,1
+0x88d8fdda0b8b9e7d:0x7f7cabaaa86960e,AND Fish Kitchen + Bar,FL,0,2.7,1
+0x88d9b31f8d39d2d5:0xbd1360a69c0e1ee6,Pink Teacup Crab Pot,FL,0,3.3,1
+0x8890bf7407784bd7:0x99f22294e687e218,Just Fish & Grits,FL,0,4.7,1
+0x88dd811cfccf8677:0x1244059195e2f684,Picalonga Mix Restaurant,FL,0,4.8,1
+0x88d9bc061722eeef:0x1208418b7efc23a,Cebiche Station by Francesco,FL,0,4.0,1
+0x88e76d925b96120f:0x49e1088a7140451b,Long John Silver's,FL,0,2.6,1
+0x88915bfa5831d93b:0xf9d8d12eb94744e7,SunQuest Cruises SOLARIS Yacht | Destin Florida Wedding Venue,FL,0,4.0,1
+0x889144a7af2ff747:0x203e010838618afa,Horizons,FL,0,4.7,1
+0x88d8d7ea41d98327:0x3f4d9324213f15e6,Crab Tales,FL,0,4.4,1
+0x8890bf0e59005659:0xcf2cdc5440c2375e,Big Al's Crabs,FL,0,4.7,1
+0x88e7136d4ea041d3:0xf6da9deb791ee510,Ballers Sports Bar and Grill,FL,0,4.2,1
+0x88e6db2cb8e3d4bd:0x69181086fa830484,Crab Knight Daytona Beach,FL,0,4.4,1
+0x88ec5fca80b3f18b:0x5ca1cd0dbdd0686a,New Orleans Seafood,FL,0,4.2,1
+0x88dd7c21f7f480b3:0xdcd029e702962d9b,The Wharf at Sunset Walk,FL,0,4.4,1
+0x88e710e6ede35fc9:0x8078c60b08562dae,Lelo's Fish & Subs,FL,0,4.5,1
+0x889141527476809f:0x72c36d9e0b9e28ed,Big Red Truck,FL,0,4.6,1
+0x88de5eda9533c519:0xb5d800e790461dc,Dockside Grille,FL,0,3.0,1
+0x88db3c083bde25f7:0x4745e0ab32be4290,The Fish Monger Restaurant,FL,0,4.3,1
+0x88d0debedf4af013:0xb13e1eeb51d5d023,Fish Market,FL,0,4.5,1
+0x88d9ba74aca0de43:0xaf3154b1afd678c4,Especialidad En Mariscos Y Comida Criolla,FL,0,4.1,1
+0x88c2e37e6f32664b:0xb61c201afe9a960a,Channels Seafood Market,FL,0,4.7,1
+0x88938192915a8391:0x27bd73fc309e0800,Southern Crunch Authentic New Orleans Food,FL,0,4.4,1
+0x88c2958f80826a1f:0xb910185dabb07b9f,China Gourmet III @ Colony Plaza,FL,0,4.2,1
+0x88e5c535a5890e27:0xab9018272e23e974,Island Life Grill,FL,0,3.6,1
+0x88d9b48d9710f64b:0xe4fa4076dda70ae9,Goyo el Pollo SOUTH BEACH,FL,0,4.5,1
+0x88e77ae2f8d351bb:0xf850c8bd7a471ac7,Gaviota Seafood & Fine Peruvian Cuisine,FL,0,4.2,1
+0x88eedf0cef4f8f0d:0x8c2aa4e472ae403a,RL's Restaurant,FL,0,4.5,1
+0x88e5b97eb9f0052b:0x3fdc8f12cf8dd57,Chicken and Fish House,FL,0,3.8,1
+0x889388d6056ee39b:0xaaa869e5d2acf6d1,Local Shrimp House and Fresh Market,FL,0,4.3,1
+0x88d9c7effc0aa0c3:0x11668ce6113509bd,Shelley's,FL,0,4.6,1
+0x88c2c7d7aaaaaaab:0xf07066b87b25dff1,Salem's Fresh Eats,FL,0,3.3,1
+0x88d928d5774be84b:0xbcd006a5bf502553,Cool Vibes Cafe,FL,0,4.8,1
+0x88ec8536c4744741:0x826c38334b70919f,Strait From The Sea,FL,0,4.6,1
+0x88d9ab3c0464cbad:0x8d8a03e0080b49c6,Le Sugar Reef,FL,0,4.0,1
+0x8890e8c923c87b49:0xe43c5fa7e92ebd85,Nichols Surf & Turf,FL,0,3.8,1
+0x88d9b49b075a9751:0x92429acee4b1364f,TATEL Miami,FL,0,4.3,1
+0x88de1d3e0f3a137d:0x9c177580802812fb,Pompano Grill,FL,0,4.8,1
+0x88d7375f8b536103:0xcf2fc0bfda6217cf,Atlantic's Edge Restaurant,FL,0,4.1,1
+0x8894b5a3706dcd85:0x38e3721e82fbabb,Hong Kong Bistro,FL,0,4.4,1
+0x88c299817dd715c5:0xefcdba8dc78740b9,City Girl Seafood,FL,0,4.5,1
+0x88d9062f0467f135:0x25b30504fcaff647,King Chef,FL,0,4.0,1
+0x88c2efa12defcb19:0x953adbf1106980ba,Fountain Grille Restaurant,FL,0,3.5,1
+0x8894b5987718225f:0x56aacf60f0f5ef02,Papa Joe's Oyster Bar & Grill,FL,0,3.5,1
+0x88e5b78eb160bc75:0x9880104c14d33d23,St Marys Seafood & more Express,FL,0,4.4,1
+0x88d9abeaca91c38f:0x66e1ccbe60e0cf1e,The Crab Pot,FL,0,4.4,1
+0x88d9c7eff5ac446d:0xc316c992f2113106,Carrabba's Italian Grill,FL,0,3.9,1
+0x88db398f5b7a7947:0x22127a8a7ac9fc0f,Summerlin Jake's Seafood & Steaks,FL,0,3.9,1
+0x88db3c0e75bcb0a7:0x64a61deebc9d46d1,Bootleggers,FL,0,3.2,1
+0x88915935c1d6a5df:0xe3e68dbdf139ae92,Mitchell's Fish Market,FL,0,3.9,1
+0x88d9ad255aa368d9:0x417d386c060d11c9,My Ceviche,FL,0,3.5,1
+0x88e5b64a6bfb3483:0x4013afe6f52c5511,Tunis Seafood Wings And Subs Emerson St,FL,0,4.1,1
+0x88e5b9da611e2fe3:0x5ede8a9874570415,Boiling Crawfish,FL,0,4.5,1
+0x88d9b5500464e18b:0xeaf3b4e63f4b645a,Shuckers South Beach,FL,0,4.7,1
+0x88d0deb46d169add:0xe84f79899635cf14,Plaza Grill,FL,0,4.1,1
+0x88db185523d5eef3:0x224c559642aba0c6,A Table Apart,FL,0,4.5,1
+0x88de5f02b549b021:0xc0be17101c3a4db,Avanzare Restaurant,FL,0,4.0,1
+0x88db185526fedf71:0xb9069b1e01b310ba,Wylds Cafe,FL,0,4.6,1
+0x88e5b3f8a7392ab3:0x44c454fb3a7d6df2,Yara's Seafood,FL,0,4.1,1
+0x88e742501dd06437:0x91315e0ad4b88db3,Long John Silver's,FL,0,2.2,1
+0x88e77fa02b9bba31:0xf7a7e8ccd7bd7e3,Peperoncino,FL,0,4.2,1
+0x88eb356805939fb1:0x1767d047e0534f8,St. George Cantina & Margarita Bar,FL,0,4.0,1
+0x88c2bf274a60cdf1:0x61b6d2d596c1f357,Hooters,FL,0,4.4,1
+0x88d9b160c140e255:0xcd248b5c8d79fc6e,Wessel's Tropical BarBQ,FL,0,4.5,1
+0x88db0334db289ca1:0x617cce936ced706d,Cafe Blu,FL,0,3.8,1
+0x88e69c1ad01c675d:0xddc1c0c7ce5f950d,Haszard's Open Pit Beef at the Beach,FL,0,4.6,1
+0x88d7372c25f54c63:0x25eb0bebc12e5442,Reefers Gastropub,FL,0,4.8,1
+0x88e69c36bdb2fd9f:0xc2554bc7b622b0c6,Purple Olive Restaurant,FL,0,4.6,1
+0x88dd7f7765e09b79:0x76f168b9afe8d95b,Deep Blu Seafood Grille,FL,0,4.0,1
+0x88d738eb5c27e5cb:0x719894e01de24e82,Lobster Shack,FL,0,4.2,1
+0x88d9b58d4aaa992d:0xd4e7efef46256eb4,INTIMO,FL,0,4.8,1
+0x88c2e240c744d4dd:0x6c25977b3d0ea7e4,T & T Restaurant,FL,0,4.4,1
+0x88c3406cd432fffd:0x229f588f188d6423,ABO Sarasota,FL,0,3.9,1
+0x88db59bedbc88279:0xf3529885a1eba7ba,NO. 1 Whites,FL,0,3.7,1
+0x88e6445e2daa7211:0x5cbd184ad3b2715,Highway 19 Restaurant And Music Venue Aka “The Frontier”,FL,0,4.6,1
+0x88c2e3e17042babf:0x37c3e19e9ee9b33f,Mr. & Mrs. Crab St Pete,FL,0,4.5,1
+0x88daee6793d47c03:0xc316363a9926e157,Capt. Brien's Seafood & Raw Bar,FL,0,3.2,1
+0x88d903d687a14b19:0x304fc26f39ca9de5,Crab Du Jour Cajun Seafood Restaurant & Bar,FL,0,4.3,1
+0x88d8d5d4a9d32753:0xaae61ebcf647877d,Table 427,FL,0,4.3,1
+0x88e7295ffac6cf31:0x4f28e8e0c78d6a9b,The Hideout,FL,0,4.7,1
+0x88d9beac5a1975a7:0xba61986ad9eb5daf,Bon Picat Restaurant,FL,0,4.4,1
+0x8890bed589feb893:0xfaf36d782a8d47d,Chet's Catering & Seafood,FL,0,4.5,1
+0x88e77c5391c0bad9:0x11eccf4be30b8361,Carrabba's Italian Grill,FL,0,4.0,1
+0x88d9bf357cfa8833:0xf7cc94291ceca96a,Benny's Seafood Restaurant,FL,0,3.5,1
+0x88e84103bb8b7283:0xb03205891d93b8ae,Boil Yard,FL,0,3.9,1
+0x88dd7f7929200b0b:0x4f41920d92e7c1d0,Pollito chicken,FL,0,4.8,1
+0x88e767ace1a70c87:0x161ebd0a162deef5,New Orleans Cajun Seafood,FL,0,3.8,1
+0x88ec8370092139a7:0xf3f15aedf7fe0b05,Porter Island Seafood Restaurant,FL,0,4.3,1
+0x88e77af11333ecc7:0x53619e1d73a11a98,Two Chefs Seafood Oyster Bar,FL,0,4.5,1
+0x88dd8019a223da7d:0x6518dc6b4dac8df3,Joe's Crab Shack,FL,0,3.7,1
+0x88d8e260b482bf41:0x30983b9ddc642e12,Rattlesnake Jakes Bar & Grill,FL,0,4.4,1
+0x88d9290bf7a09ac1:0x1a23291146fbb6b,Ground & Griddled Bar & Kitchen,FL,0,4.5,1
+0x88d7420229e41ea5:0x7899efccb7d9e8a1,Island Grill at Mandalay,FL,0,3.8,1
+0x88df2ade0750d195:0x8952547bed18256e,Blue Marlin Italian Grille,FL,0,3.7,1
+0x88913f4d9de4aa1d:0x55c0933c5d84efb6,THE BLACK PEARL ISLAND GRILL,FL,0,4.0,1
+0x88d9b49013bd285d:0x1d128124b20cea8,Grillfish,FL,0,4.2,1
+0x88e77e4b1298aed1:0x2cbc3712d6f3dcb3,Fat Fish Blue,FL,0,4.2,1
+0x88dd175d524431fd:0xc2144267c7ef2d57,Krab Kingz Seafood of Bartow,FL,0,4.7,1
+0x88dd3955696ebaf1:0x111af25a565e5532,Cravin' Cajun Seafood,FL,0,4.3,1
+0x88d9ad08ad6278c1:0xba40a6615b7a6f00,Miller's Ale House - North Miami Beach,FL,0,3.9,1
+0x88db1c3a872fa421:0xe0e32760ee2e7180,Off The Hook Comedy Club,FL,0,4.5,1
+0x88e5b716c63680e5:0x28d7f53fdfb1f3a5,Juliette's Bistro,FL,0,4.0,1
+0x88d9ac86435b42f3:0x40084fe22ec0065c,Starting Gate Stone Crab & Oyster Bar,FL,0,4.9,1
+0x88d9b6840b4ca0f5:0xaa5882990432de8e,Sushi Maki (Brickell),FL,0,3.8,1
+0x88d1ab7a240f110f:0x363f16eeeddcf35,Fish,FL,0,4.6,1
+0x88c4a9d1626b33bf:0x4280060eff53a3c5,Rum Bay,FL,0,4.6,1
+0x88e5c68e14c3ae8f:0xb77c8c2e35f14add,Bassil's,FL,0,4.3,1
+0x88c3110b82caf803:0xc170521fcbbed551,Mermaid Pies and Sandwiches,FL,0,4.8,1
+0x8893834047d74797:0x24e77392dd630216,CRAFTY CRAB,FL,0,4.0,1
+0x88e5c749a6496a53:0x19fad299e83b8298,Fatballs Sports Bar,FL,0,3.5,1
+0x88db1ddf114f4cbf:0xa162baeff2645dd3,Grouper Grille,FL,0,4.0,1
+0x88d9b7eaa4bd6997:0x255a6eb18f897a3f,All About Crab,FL,0,3.7,1
+0x88d9bb6747ee0b77:0xf076915aa79a7800,Antojos Peruanos,FL,0,4.7,1
+0x88e769f15944cb05:0xd44b9d60fbcfc6e4,Takeyama Sushi,FL,0,4.4,1
+0x88e0a9e814752965:0x70cf5937bca79006,New Century Buffet,FL,0,3.2,1
+0x88e44983161c590d:0xd8b2296002b32733,Billy's Boat House Grill,FL,0,3.5,1
+0x8890c5215352bab9:0xf7a61e6c247d66c,Popeyes Louisiana Kitchen,FL,0,3.5,1
+0x88e5c77fdb995c87:0xd24f26f03d5d0dd9,23 Flavors Restaurant,FL,0,4.0,1
+0x88d9060b248ea17f:0xece5002d3495c759,Bahamian Reef Seafood Restaurant,FL,0,3.5,1
+0x88e96d7f07387793:0x30dc6a7c2de314dc,The Shrimp Boat,FL,0,4.7,1
+0x88daef81c080ca1d:0x59ff6a949b761aa5,Deep Lagoon Seafood and Oyster House,FL,0,4.2,1
+0x88d9b361f6172215:0xa0f24d7b2bdb8771,Traymore Restaurant and Gin Bar,FL,0,4.2,1
+0x88dee701116ffc05:0x92befd1c87928d7f,Kaishin Sushi Izakaya,FL,0,4.4,1
+0x88e7e3fb43e3b72f:0xf62dceed18bd9a22,El Zarape II Mexican Restaurant,FL,0,3.7,1
+0x88d901687109573d:0xe1687adeeb9f2fd5,Only Thai Authentic Kitchen,FL,0,4.6,1
+0x88e779d159095a7f:0x268039838846ec08,Mama Lau va Oc,FL,0,4.3,1
+0x88d8e06d95450167:0x8ab10111edd79df6,Il Girasole,FL,0,4.8,1
+0x88dd55ba5904729b:0x846a133b33b301a2,Martha's Grill And Bar,FL,0,4.1,1
+0x88db6a72ce3cfa61:0x9d765d1d3e1d933,City Fish Market,FL,0,4.5,1
+0x88d8e21afa693085:0x110a3998f98eae94,Hijinks Sports Bar & Grill,FL,0,4.2,1
+0x88e78303055bfc6f:0x9b7852b0ff3fd44e,Mr. & Mrs. Crab Ocoee,FL,0,4.5,1
+0x88d9e7409cca604b:0x22baf47ce9491999,Mutineer Restaurant,FL,0,3.3,1
+0x88de111c3443b461:0x128484c1db107dcb,Sea Grapes Restaurant,FL,0,4.1,1
+0x88d9a85e5f32e4df:0x4a87096dd7dcf6d1,Oh Ceviche,FL,0,4.6,1
+0x88daefb2134cf88b:0x4c8f41f501648f5c,Kretch's Restaurant,FL,0,4.4,1
+0x889483342f7c4a0d:0xf617f34b4259f7a6,Rodeo's Steak Pit & Seafood,FL,0,4.3,1
+0x88dae3d437f62c5d:0x3876a30650cfb9d2,Bamz Restaurant,FL,0,4.6,1
+0x8890bf4bf1bbdee1:0x27df2ec6d8481bc1,Favor Flavor Seafood Restaurant,FL,0,4.2,1
+0x88e8a3e880ad2f43:0x9e73cf56abe89074,BJ's Seafood,FL,0,4.7,1
+0x8893ee1e836a3f07:0x259ddb2dba131a5a,Caliza Restaurant,FL,0,4.6,1
+0x88c2f762135c2ea1:0xfa7a318ae02791f6,Clearwater Oyster Company,FL,0,4.5,1
+0x88915eb3c960ea19:0x97b5030637f120a9,Agave Azul Mexican Cuisine,FL,0,2.9,1
+0x88dd7f9cdd1577e1:0xd9c656aef88d79cb,Snack Shack,FL,0,4.0,1
+0x88d9b7ae4cac0e47:0xc0fb845d06160e78,Farolito Restaurant,FL,0,4.3,1
+0x88db02ada4b90241:0x3fedcb077aae1384,Aji Limon Peruvian Kitchen Naples,FL,0,4.4,1
+0x88d9e194bb0dab77:0x40dfdd0d9053e7e4,Krab Kingz FLC,FL,0,4.7,1
+0x88d1b1771251fb5d:0x7da2d71d45c266d,Rusty Anchor,FL,0,4.2,1
+0x88f509c9f0af8c29:0x25a46b00d9fd4967,KBOP,GA,12,4.9,1
+0x88f5036de11bf8c7:0x64de326982252c1b,Southern Seafood & BBQ,GA,0,3.5,1
+0x88f51dda89203345:0x830ec19f9231054c,Off The Hook Crabs & Fish,GA,0,4.5,1
+0x88f4e3041a898bf5:0x5e3fd49e82484ce2,Seasoned 7 Bistro & Bar,GA,0,4.0,1
+0x88f50160cb35a85f:0x7ad0f83428c670a5,One Way Louisiana Style Seafood,GA,33,3.9,1
+0x88f4fbae9fa4cc89:0xec4c48740a079952,Wings & Seafood,GA,122,4.6,2
+0x88f257a43d4a2475:0xf8fc14856ffdd940,Seafood Center,GA,21,3.9,1
+0x88f0411b336ef55d:0x7ff50ffafaf24a1f,Ocean-N-Motion,GA,0,5.0,1
+0x88e4d0810bafa93f:0xab8d5f1e3774c15c,Mainely Lobster and Seafood Too!,GA,0,4.2,1
+0x88f50993386edc13:0x7d8d9cd41753cf21,2990 Nola Cafe,GA,0,4.5,1
+0x885fe72c06b64635:0x7cc9cb0ee277e95c,Triple K Catfish House,GA,12,4.6,1
+0x88f50e973c8fc131:0x583e3535c1bc8e3,SeaBass Kitchen,GA,0,4.8,1
+0x88f17bd72d514d59:0xce05089be8a579ca,Wilkins Seafood & Grille,GA,0,4.7,1
+0x88f4e29bed64bd05:0xe9a2ab8bba1ac031,Leila's Land and Sea,GA,16,4.7,1
+0x88f5bd6c79665ab9:0x23ade8c70d97460a,Seafood on Fire 불타는 해물찜,GA,12,3.2,1
+0x88f6bf35a78bfbb3:0x22084f2a382de255,Legends Seafood & Grill,GA,16,3.5,1
+0x88f5bf9c94ac058d:0xb6803ada7517450,Red Lantern,GA,0,4.1,1
+0x88f45b9dbd35afbf:0xf4c473ca540d5b2e,Fatboiz Premium Gourmet,GA,20,3.6,1
+0x88f5bd7d80967963:0x15a4d377d98fc0d2,Hook & Reel Cajun Seafood & Bar,GA,0,4.1,1
+0x88f5111ab38993db:0x6951676e811a1318,China Palace Restaurant,GA,26,3.0,1
+0x88f599c58c8c3931:0xe38ec2de2aefd697,Lobster Banh Mi,GA,24,4.5,1
+0x88f4e37cfca56f81:0xcffc47ea0477584,OLDE SAVANNAH SEAFOOD CO,GA,11,3.3,1
+0x88f5a9bca55ec5e7:0x8e2dc5210463f71e,David's Crabhouse of Savannah,GA,16,3.4,1
+0x88f5bc352a243c8f:0xb660865f0a14c734,Masago steakhouse,GA,0,5.0,1
+0x88f48ba5a4625331:0xb9dc874206f5826e,Solomon Street Seafood Market,GA,22,4.5,1
+0x88f50b7782c00b7b:0xfd53fbc1c620ade3,El Capitán Seafood,GA,0,4.3,1
+0x88f4e32a97254537:0xdf0fe8d5ddad34bd,Da'One Seafood,GA,0,4.3,1
+0x88f514d88668cf71:0x68a9f84f8f44e4c9,Farmers Basket,GA,0,2.3,1
+0x88f4fdd705037a4d:0x10d99a2ff3a5e7dd,Bluebay Seafood,GA,0,5.0,1
+0x88f518187663d19b:0x2cca86505c3bc5e,Floyd Wings and Grill,GA,83,3.9,2
+0x88f5036de0ecbfd3:0xfa8eb22fca982c72,Nicky's Seafood,GA,11,4.0,1
+0x88f6e0dfcc8cd961:0xbf2c63a988a529c5,Value Mart,GA,0,4.3,1
+0x88602146ee42a335:0xbb821f4ee6e28dda,Long John Silver's,GA,0,2.4,1
+0x88e4dc18a36aabc5:0x6a75ebce3c9734c2,685 Seafood,GA,0,2.3,1
+0x88f51d90e587f005:0x2aca8f6baf73699f,Hooked,GA,10,4.0,1
+0x88f5bf9d9e1dff89:0x79a065ba042634a5,T-Ray's Fire Grill,GA,32,4.1,1
+0x88f5a1d1a2358b2b:0x3b971aa38d15c7a2,Sweet Tuna,GA,25,4.1,1
+0x88f5b345cbd2dbd3:0xf90e301ff3857a47,Bailey's Restaurant & Lounge,GA,11,3.7,1
+0x88f5a3b6f65a1e69:0x224decdea976a243,Kajun Seafood,GA,15,4.7,1
+0x88f50ba728d7cb5d:0x62fd47c3110a0091,The Juicy Seafood,GA,10,4.3,1
+0x88f509ee31a6e8b3:0x6896841238daaf21,Coaxum's Seafood Spot,GA,92,3.9,2
+0x88f4ea091bfd0b0b:0x1627648f80163521,JavaTropico Seafood & Grill,GA,0,4.5,1
+0x88f3e196094c88ff:0x15f147e9b9f33a1c,Ocean Crab House,GA,13,4.9,1
+0x88f3fe417cd06f43:0xb1fd05b9a88adf20,K’s Fish & More,GA,16,4.5,1
+0x14fa4292b218f1ab:0x2a6a70e733d2ca38,Tybee Island Fish Camp,GA,17,4.3,1
+0x88f50944e05b2689:0x15392732f7202711,Goldfish,GA,13,3.7,1
+0x88f2792391003c9d:0xf034d90549e6d9bf,A.SAPP Crab Shack,GA,0,4.2,1
+0x88f4fcb65ee9112b:0x840d9c74ea6b3882,Sidneys Seafood,GA,0,3.3,1
+0x88f279e48f5e135d:0xffcae4b568b33fc9,Fish Fillet,GA,41,4.0,2
+0x88f2ba6d6012bef3:0x7979be502cc57e56,Patterson's Restaurant,GA,0,4.7,1
+0x88f5047bd18c5437:0x1d9e44d347968209,BLT Steak,GA,0,3.5,1
+0x88f44bdd6444e171:0xe110b5db48864596,Juicy Crawfish - Conyers,GA,29,4.0,1
+0x88f12005ae51b155:0x1fea7de73a2b5952,Louvenia's Seafood Market LLC,GA,63,4.4,2
+0x88f5b871a8315b37:0x9bec7ddcda6da295,American Tavern,GA,68,4.2,2
+0x88f5bf2e56231761:0x20aa9ed23bf069f3,I Crab,GA,37,4.7,2
+0x88fa60e7365683ff:0x993cbddb7f98cb8c,Ocean Galley Seafood & Steaks Express of Claxton,GA,24,4.0,1
+0x88fa61d86cb143cd:0xe1e3e056e1a953a8,Popeyes Louisiana Kitchen,GA,0,2.3,1
+0x88f9ce3f65893b1d:0xd22e6c95c8e27649,Guang Hua Chinese Restaurant,GA,0,3.3,1
+0x88f6c7e93f1c7fd3:0x20465a9b21208ace,Momma Shay's Kitchen,GA,14,3.9,1
+0x88f5232ba2db86ef:0xb876e33a015bfe3f,Seafood restaurant,GA,0,5.0,1
+0x88fb7793e82dffa7:0x1029544cfaa39e1d,Jazzy's Kitchen and Catering LLC,GA,0,5.0,1
+0x88f5bd69e8256e31:0x425c9ca7a2250bec,Ceviche Co. Xpress,GA,0,5.0,1
+0x88f5b288efe0cb27:0x64dcafc980fe7a19,Marlin & Ray's,GA,0,3.9,1
+0x88f541b85c9b7f0d:0x8f86ae22eb694089,Popeyes Louisiana Kitchen,GA,0,2.0,1
+0x88847e29c27fd8f3:0x9816712960e03b1f,A & T's Breakfast Café,GA,17,4.2,1
+0x88f5b9a3d314c7e5:0x762b5db5e6b2a997,Q's Seafood,GA,15,3.7,1
+0x88f66cbede149b81:0xaa7abd4290878e24,Lighthouse Seafood,GA,26,4.1,1
+0x88f5058f4afda987:0x7a206029a71a76bf,Coast Seafood & Raw Bar,GA,12,4.3,1
+0x888cd311f3c118ed:0x5fd78bf8114568bb,Super Yum Crab Shack (Columbus),GA,37,4.6,2
+0x88f515560bea2897:0x48396f45fe53e578,Cousins Maine Lobster,GA,24,3.8,1
+0x88fb199d3d3373a5:0xe398252e29cc9713,Holton's Seafood Restaurant,GA,0,3.9,1
+0x88f02b93831c1a99:0xa7d58e331ff6cbf9,Lil Mike's Catering and Family Restaurant,GA,18,4.5,1
+0x88f51199f7a46751:0x14c79a8f481d534,Benzino's Crab Trap,GA,22,2.8,1
+0x88f59f554a7ea097:0x734675061dc25b4b,S&W Seafood,GA,21,4.1,1
+0x88f457790067a767:0x9548d563fb258b62,Ameen fish and wings,GA,31,4.0,1
+0x88f3ff2f49ee02c9:0x541df2c4e649b5b7,Zeafood Time,GA,71,3.6,2
+0x88f4e73a434769a9:0x89bedddb5a515d95,The Golden Bite,GA,46,4.3,2
+0x88f589da1824fd6d:0xbf153649997d4d63,Buckhead Grill,GA,19,3.8,1
+0x88f5a9129f38ce4b:0x6deda31b9ced4b0f,Popeyes Louisiana Kitchen,GA,28,3.1,1
+0x88f5ad75025404c5:0x40fa4d470fe35774,Prime Time Chicken n Fish,GA,0,3.0,1
+0x88f5a9aa6ae9331f:0x640c5a06c9e39d94,Majestics BBQ & Seafood,GA,21,4.4,1
+0x88f4fa3f4fe6148d:0xf25ec97fb7b8cdcf,Chicken and Seafood Mart,GA,0,4.0,1
+0x88f5a358d500d79d:0x4b15755224a8aa1f,Four Guys Ố́c Lẩu Quán Atlanta,GA,43,3.5,2
+0x88f59f17316d98ff:0x98e7d3e1eee37613,Louisiana Crab Shack Alpharetta,GA,23,4.5,1
+0x88f9cd8555ad589b:0xa0d10e6f7bbf4ee6,Calvert's Restaurant,GA,94,4.5,2
+0x88f5ef9d7eca4941:0xd9c6750f0143f078,Popeyes Louisiana Kitchen,GA,16,1.9,1
+0x8858c71980e65ab3:0xd0e48e7371b4448f,The frozen palm tree,GA,40,4.9,2
+0x885f7dbadd61de17:0x172d71a36a693f54,Kajun Seafood,GA,28,4.6,1
+0x88f505f3e5058edf:0xed8139ad58467e97,Ocean Prime,GA,10,4.6,1
+0x88f66d9c5322805f:0xd8235a3cbd97e6d5,Chuck's Fish Athens,GA,101,4.5,2
+0x88f3fe7b6ecf549d:0xc18da7f6979704e1,Parish On Cherry,GA,841,4.3,3
+0x88f6f270fd1d595f:0x48ba3275caaee2eb,Linger Longer Steakhouse,GA,66,4.6,2
+0x88f4fa2e5da40691:0xd9aa7b2a3a40b562,Savannah Seafood,GA,23,3.9,1
+0x88f4e746833c66d1:0x1db178eeac7cbfe2,Mr Krabs Hut,GA,57,4.0,2
+0x88f5a495623a34d5:0x244f19115028e414,The Barn,GA,24,2.8,1
+0x88f5653d123754ab:0x70f62c6d2eff99fb,Olive Garden Italian Restaurant,GA,923,4.2,3
+0x88f9cf3910aa10ab:0x4a4652e0de69567e,Skrimp Shack,GA,12,4.5,1
+0x88f5a6bf0f354d07:0xc10550e39ff8d2a,Mariscos Las Islitas,GA,21,3.6,1
+0x88f4fb6bea74dc5d:0x579a888ec01fc519,Big Tuna,GA,198,4.1,3
+0x88f4c714d423f5a5:0x93539572670e3c94,The Juicy Crab,GA,262,4.2,3
+0x88fb757160741065:0x4a8d917ddfd5b45f,Popeyes Louisiana Kitchen,GA,107,3.3,2
+0x88f50fb162aa8d5d:0xb2352961594f8360,Big B's Fish Joint,GA,80,4.5,2
+0x88f45bec60e484ab:0xf39e9718e26a2828,Yosi Japanese Seafood & Steak House,GA,123,4.5,2
+0x88f02ba3936271df:0x5245bb6e4bef67d7,Destined Sweets&seafood,GA,0,4.9,1
+0x88f50116859d4063:0x958747e27c5ff1a3,Krabs Hut,GA,11,4.1,1
+0x88f505ab1b05a703:0x80476d24db4b2477,Lusca,GA,0,4.4,1
+0x888ccdcddcf4880d:0x279a77bc67c6996b,The Jazzy Crab Restaurant and Bar,GA,107,3.9,2
+0x88f505f80c483d03:0x18f10a3c02d7e88f,Prime Restaurant,GA,14,4.2,1
+0x88ee3d8a1d09887b:0x2e22f93904a6cafd,Off the Hook Seafood Grill,GA,75,4.4,2
+0x88f455b0d2183f73:0xccb7edf741be0b41,Yasin's Homestyle Seafood,GA,33,3.9,1
+0x88f7c45561ec6f39:0x50932cc721027564,Clifford's Restaurant,GA,21,4.3,1
+0x885885db84656ebd:0x5a406f5d7c8afe2d,83 Degrees West New Orleans Seafood Grill,GA,27,4.4,1
+0x88f5094f718fc063:0xe0c05ac83f9c447e,Chequers Seafood + Steak,GA,17,4.4,1
+0x88f68749f1ca9d6b:0xd712dda6c7160b0d,Dive In Seafood Bar & Eatery,GA,12,4.4,1
+0x88f4f743936481bb:0x8de80bcbdaa21ebd,J And J Seafood,GA,18,4.2,1
+0x88f50f1c4d0020ff:0x2635c541cf5328aa,Wok N Roll Restaurant,GA,15,2.9,1
+0x88f50457fe197e8b:0xc9c1b06e8cb7d39d,Strip Steak Seafood Sushi,GA,40,3.4,2
+0x88f34a3246728a29:0x9a882ec1f82b2d63,Granny's Seafood,GA,0,3.7,1
+0x88f6c873e564e5f5:0x1449cb730d9e0a5d,James Fish & Chicken,GA,77,4.3,2
+0x88f5a6c95366b569:0x55eb34e1209626a,Bigsby's Grill and Bar,GA,0,2.3,1
+0x88f27925842e5f6b:0x86bcb537a110e1e2,Goodtimes Wings Shrimp & Fish,GA,101,4.3,2
+0x88e529d08752d137:0x4437f13d4af85c2f,"Captain Joe's Seafood, Brunswick, Ga",GA,77,3.6,2
+0x88f5053806452e2d:0x24ddc827949bfe3e,Hide Kitchen & Cocktails,GA,68,3.8,2
+0x88f595c7a7f5b25f:0x8f0e1218ba8fd176,The Juicy Crab,GA,79,4.5,2
+0x88f56ba7b662c5ab:0xc6d80933e0a27c8e,Miller's Ale House,GA,33,4.6,1
+0x88f505d57dd78be3:0xf72894d62d9cb36e,Privilege Restaurant,GA,0,4.5,1
+0x88f44b1fcfa3d993:0x5b8baaf57a7ce63f,Wing Hut and Seafood,GA,78,4.1,2
+0x88f12afc60ad09f7:0x71c9237ffc0006ab,Herb's Fish Place,GA,89,4.7,2
+0x88f09eb569739f6b:0x95aa528a3992cc01,Oak Island Crab House,GA,55,4.5,2
+0x88f27f3808d98b3b:0xc722a5c0eac41b7c,Big Willy's Seafood LLC,GA,33,4.5,1
+0x88f51928f3e3ab09:0x307249bcba30db2c,Seafood Factory,GA,0,4.6,1
+0x88fab97930a2f41b:0xf39db4f20a46a60b,Popeyes Louisiana Kitchen,GA,0,2.4,1
+0x888cd3dfe9afdf3d:0x77412747eb6fd7aa,Popeyes Louisiana Kitchen,GA,53,3.0,2
+0x888ccb4bd93da011:0x3f94c0a724642640,Shogun Japanese Steak House,GA,23,2.5,1
+0x88f3c1cc72685f7b:0x4486a462b3ba4a19,Shark's Fish & Chicken Chicago Style,GA,111,4.2,2
+0x88f5058d9fa961eb:0xfd24856509ec8fdd,Boneheads Grill,GA,0,4.5,1
+0x88ed9181f26c5cff:0x645a1fe190364279,Lost Creek Restaurant Steak & Seafood,GA,89,4.7,2
+0x88f3fe382281b12f:0x4f35dc677d721654,Shurling Seafood,GA,62,4.1,2
+0x88f511935ceaf459:0x5553670e5cc5aacf,Jimmy'z Kitchen Marietta,GA,115,4.8,2
+0x88f5a472973e5617:0xc4ea50947dac3cd3,Discover Wings,GA,137,4.0,2
+0x88f6c7ff0f4be18f:0x4c4ccff8775c810,Golden Crab Seafood & Grill,GA,20,3.8,1
+0x88f59ff4f59f3c93:0xd0dc5d15e9428cf8,Coast Seafood & Raw Bar Johns Creek,GA,0,4.3,1
+0x88fb3b245fd282d9:0x4b220ef4d62591f0,Speed's Kitchen,GA,72,4.6,2
+0x88ed52dccd979395:0x7f1bd8278e274f60,Edd's Oyster Bar and Restaurant,GA,25,4.6,1
+0x88f9ef34f7c3bfa1:0xa5be46d762d1f2a1,Seafood Shack,GA,19,4.7,1
+0x888cb7047f3e2e3f:0xfe2548bcf8c29ae1,Overbored @ Lake Harding Marina,GA,15,4.1,1
+0x88f593c2cc3838bb:0x93ad9a53b6bea49a,Adam's Restaurant and Piano Bar,GA,29,3.4,1
+0x88ee01c3487b3f4b:0x576c79446fbf12d2,Cajun Seafood Express,GA,40,4.6,2
+0x88f9cdac66765fb1:0x6080eb14cde4799d,Calvin’s Roasted Fish And Salads,GA,93,4.2,2
+0x88f51122e6ee55cd:0xcbed87ad337b1afc,Mikkeys Retro Grill,GA,53,4.3,2
+0x88f4fd3101a4f57d:0x9a35f7e190c01e55,CAJUN CRAB DADDY,GA,26,4.8,1
+0x88f500d8bb22bdc3:0x63779b8fc327f5ca,Marie's@Ummat Cafe,GA,30,4.5,1
+0x88f546c51c5a390b:0x5f6e3d5d46692dd3,Acworth Fish Camp,GA,41,3.2,2
+0x88f5058bf2a7ecc9:0x97badb4a18a885df,GENKI Noodles and Sushi - Buckhead,GA,38,3.7,2
+0x88f6b80d207342cf:0x235df6a7d0cca34c,Shark's Fish & Chicken,GA,148,4.3,2
+0x888ccdbac8c63cbd:0x63f4e8dce18c3532,Ayden Lounge,GA,66,3.9,2
+0x88f5a62db3576db9:0x967a5a04f35cef75,David's Crab House of Savannah,GA,121,3.9,2
+0x88f5b28f6caf443f:0xee980eb7f758a74,The Crab City,GA,36,3.6,1
+0x88f3fdd6742c2eaf:0x1985254b06367927,K's Fish & More,GA,53,4.5,2
+0x88f5091304a8c9e5:0x774a63334c84462b,Chichop Taiwanese Grilled&Fried （台湾炸物）,GA,38,4.3,2
+0x88fb9feeffb637a1:0x62f90bae282327a6,Popeyes Louisiana Kitchen,GA,86,2.8,2
+0x88f5bd77d0672bc5:0xdb8a6eee00dd05bf,Hondos Shrimp & Fish,GA,31,4.7,1
+0x88f4fbf4d5768dc9:0x1dfacebfa6fb78db,Miami Garlic Crab,GA,22,3.8,1
+0x88f56b4fb5cd9997:0x57d7a15684898f0e,Crab Heaven Restaurant,GA,45,4.3,2
+0x888aa4c1dedc2323:0xbcfc97432f294509,Long John Silver's,GA,74,3.5,2
+0x88f59d2b62ba58b3:0xe7be54f296e01cff,Ocean & Acre,GA,96,3.9,2
+0x88f505e5dc79d447:0x1fda151a26f963a9,king crab atl,GA,251,4.3,3
+0x88f5b987566b5471:0xcc705a4e50fae351,Hokkaido Sushi & Grill Buffet,GA,51,3.4,2
+0x88ee01b0704c3d91:0xf3f462f5e3723bd0,Tonyo's Seafood,GA,31,4.6,1
+0x88f9cfe7062d9009:0xbdf549b28f8510e6,Red Crab - Juicy Seafood,GA,68,4.0,2
+0x88f9d0949f417ba3:0x6be74b9c2a6c0f60,Wings 2 Go,GA,92,4.4,2
+0x88f4f7923c259ab7:0xb8ba7a370e90f51d,Spicy Hill Restaurant,GA,30,4.8,1
+0x888aa4bebfe9423f:0x64b5a4a0ebb245a9,Duke's Wings And Seafood,GA,0,5.0,1
+0x885f662604aacdc1:0x8519b03a2d7a08f5,Back Porch Oyster Bar is closed,GA,123,4.0,2
+0x888ac04a068afd2b:0xa90a1f4c66fd22d7,Captain D's,GA,234,4.1,3
+0x88f5ba9fe9150279:0x59f5ffeede7ac4d,Joe's Crab Shack,GA,12,2.8,1
+0x885f8794c83d2ec5:0x493049f73198e75b,Captain D's,GA,243,4.3,3
+0x88fab88c5a4b0af7:0x7ae0d53d6cb5c1d2,Angel's Fine Dining,GA,108,4.5,2
+0x88f523c1cbd4f2ad:0x87cc1c767c1230ad,Crab Hut Express,GA,76,3.7,2
+0x88f08603cdbed121:0xb0f4cf1f766dcc28,Captain's Corner,GA,164,4.1,3
+0x88fac2650c84ffc3:0x4ce64aafb5f3ae2f,CRAWDADDY'S,GA,51,4.7,2
+0x888ccda355414df5:0x35e0be23f7f40e63,The Market,GA,0,3.3,1
+0x88fae38435671689:0xc1c93b808b5639b9,Phillips Seafood,GA,38,4.0,2
+0x88f4e213427b0001:0x9a86dd0812550731,"Supreme Fish Delight, Camp Creek",GA,149,4.2,3
+0x88f4494cd5c7ac27:0x7245dad69a0dcd3f,Shrimp & Fish Box,GA,0,4.2,1
+0x88f51d5398b93b61:0xeae99780198fe4a5,Eastpoint Seafood & Salad,GA,0,3.7,1
+0x88ee0bbb0f8c333d:0x48e4cf9e1daf5dfd,Carter's Catfish House,GA,223,4.2,3
+0x88f51b4d90e618ad:0x68cf1e8a41cc1319,Bankhead Seafood,GA,37,4.0,2
+0x885f2f5d69495555:0x2589fb0ca798cc20,Hiawassee Seafood Bar & Grill,GA,69,4.4,2
+0x88f224cc59715555:0xe001e49a8a932931,Fish Fillet,GA,202,4.1,3
+0x88e4da602e03364b:0xd5528ae3281d32fb,The Rooftop at Ocean Lodge,GA,69,3.7,2
+0x88f5a1bb7757acf9:0xea6f50298822f1de,Osteria di Mare,GA,68,4.4,2
+0x88f574af88d2e195:0x845ef990b2575041,Los Cabos bar and grill,GA,62,4.1,2
+0x88f5115dce109411:0x8db8b944b528777a,COSTA MAR MEXICAN RESTAURANT & SEAFOOD,GA,164,3.9,3
+0x88f5a95ab0c753b5:0x2bb6395f8c01a231,Doos Seafood @ Stone Mountain,GA,512,4.2,3
+0x88f132049868f2af:0x898e0f000b3cf829,Thompson's Cove Restaurant,GA,83,4.6,2
+0x88f5091c54da8ced:0x47fd2496e953bb44,Sushi Yoshino,GA,115,4.2,2
+0x88f5a9a58bec1a3f:0xdbc1b4da25fabc70,Pizza Walley,GA,112,3.9,2
+0x88f5b98085cee817:0x177edfb1c8c21993,Wings Mania,GA,114,4.7,2
+0x88f509cad7d59fdd:0x5a71522aa7962728,Kajun Crab,GA,86,4.3,2
+0x888cb6fb0deb9a1f:0xd9ab98ee7f7f12aa,Pat's Backwaters Restaurant,GA,86,4.7,2
+0x88f5b977e00800f7:0xe5ba6ef7fc01a12a,The Juicy Crab,GA,17,4.5,1
+0x88f4f71d555fad6d:0xf075487b08d292bf,Pacific Deli,GA,84,4.1,2
+0x88f62702b77a931d:0xfd2fd83383af13fe,Booty's Fish House,GA,209,4.3,3
+0x88f50334a806f5d1:0x2bd1ce9e276b03f7,Crab Shack Atl,GA,0,2.6,1
+0x88f43595c3d1065d:0x8106c1ca3d6d8254,Neely's Restaurant,GA,0,3.5,1
+0x88fb755bb170aeed:0xa23bd16dbe4fc874,King Cajun Seafood,GA,56,4.2,2
+0x88f4e364bee79f67:0x639fa8addd7fa14f,This Is It! BBQ and Seafood (Old National),GA,190,3.5,3
+0x88f4fb61661332f5:0xbcb962a11cdc6649,New Orleans Seafood,GA,14,4.5,1
+0x88f45bec7d7cd225:0xc7baf0cd6c7b522e,Steven's Fine Food,GA,72,4.3,2
+0x89b7c702bd08b4c9:0x813f295875c3f328,Cajun Grill,MD,0,5.0,1
+0x89c809b6b69d46e7:0x64cb16d84f6a7f15,Urban Crab Shack,MD,26,3.9,1
+0x89b7bc2fdfabe817:0x129b9bf593caf743,Captain D's,MD,0,4.0,1
+0x89c80faf1ab84675:0x76cbe36d46c9737f,S & J Crab Ranch,MD,0,3.4,1
+0x89b8407b21dd00af:0x9102db1fe0d0db98,Captain's Ketch Seafood,MD,0,4.6,1
+0x89c81baedb1798d3:0x6d78e10ae303f03e,B More Chicken & Seafood,MD,0,2.8,1
+0x89b62d5e3302fd9d:0x37a5663751debfdf,Fingers & Claws Restaurant,MD,0,2.0,1
+0x89b8d60fa33cd97b:0x948f4c59ab85ff85,OC Steamers Restaurant,MD,0,2.7,1
+0x89b62df64b3a6cc5:0x51ccf7df6eec51e,Cameron's Seafood,MD,23,4.4,1
+0x89b7cf035ad95555:0x4807c8521c01abe9,Anchor Seafood Place,MD,11,3.7,1
+0x89c992d83af08561:0x90ea43e97c8270c9,The Farmer's Cook House,MD,0,4.4,1
+0x89b825b1535b3fbf:0x246917142b260d4d,Harrison's Chesapeake House,MD,0,4.6,1
+0x89c8035cdaa11bdf:0xce77fe0b5be8f89e,Watershed,MD,49,3.9,2
+0x89c7c7539c365573:0x248f7ebb6dcdd9cf,Price's Seafood,MD,0,2.9,1
+0x89b7c0b89bf04809:0x3e7680892112cc5b,Fab Grill & Seafood,MD,24,4.6,1
+0x89b7fd4663a84edf:0x82ca606d494ee8c8,Willow Restaurant and Pub,MD,0,3.4,1
+0x89b7c3e252bcb3f7:0x53b6d8e23b759607,Sir Walter Raleigh Inn of Greenbelt Inc.,MD,32,3.8,1
+0x89c80903a32ae5d1:0x6b4d3908fdb47f18,Juicy King Crab House (Belair),MD,10,4.4,1
+0x89b7c7732d808b37:0x4da879d6ed6ad37e,Naija Fish Place,MD,0,3.9,1
+0x89b7f648b15e30c5:0x269e82e07a51e4e1,The Harbor Grill,MD,0,4.3,1
+0x89b7a13c873a2fd9:0xe6b931a0058bac3c,Brasas Rotisserie & Grill,MD,0,3.1,1
+0x89b99bf111ef56cd:0xd2f6e295da098d8,Fisherman's Grille,MD,14,4.0,1
+0x89c7ba89040da2af:0x1323795889bf8d9e,The Black Pearl Surf & Turf Grill,MD,0,3.7,1
+0x89b7a3a76b420b6d:0x66fa5e94412edcf2,Urban Crab Shack,MD,35,3.6,2
+0x89c9db8379b42b1b:0xd6f02591b77514b8,Carrabba's Italian Grill,MD,30,3.8,1
+0x89b7d407127341c7:0xcd5ed3cfacaaa6c0,Daves American Bistro,MD,0,2.8,1
+0x89b7cf7a3615aa8b:0x455bf8f33125e1d0,Dorados’s Seafood,MD,0,4.3,1
+0x89c808ad87de3d95:0xf95ad30d8e6736c3,R&R Seafood Bar,MD,0,4.9,1
+0x89b9e33f89bda89d:0x53c8430529bc2e67,Pier450 - POV Restaurant,MD,0,4.2,1
+0x89c7f3d2b1fe3d8d:0x3bbcd6b5efbc8176,Harbor House Restaurant,MD,14,4.2,1
+0x89c9db0e1ab2e861:0x3a7a15b95c28a15a,Aloha Krab,MD,15,3.7,1
+0x89c806755e573a9f:0x51f7dab23cb7019b,Sully's Seafood Inc,MD,31,3.9,1
+0x89b7c8971eb8fcdb:0x5dbb2400b6672e8b,Blair Mansion Restaurant,MD,0,3.3,1
+0x89c7e3e2d730f259:0x744d812e45301c16,Crabby J Seafood Markerts,MD,0,3.5,1
+0x89c86f33f18901f3:0x3c29614f77b27b72,Freeland Crab and Seafood,MD,37,4.7,2
+0x89c7e658ec7b18b3:0x4bdc76071a47ebef,Drew's Crab Shack,MD,0,4.4,1
+0x89b7e32bcdbcdfd9:0x80f9706558980ff6,Crafty Crab Hanover,MD,0,3.4,1
+0x89b8d41933e89ff7:0xe3320602b14833a9,Reef 118 Oceanfront Restaurant,MD,0,4.4,1
+0x89c81ccf53f4084b:0x69f15804f4f71e41,No 1 Taste III,MD,40,3.6,2
+0x89c992ac66ec7287:0x6ba7abfb8c437e81,Woodpoint Seafood Grille,MD,0,4.8,1
+0x89c843cfc675416d:0x46cc18f560ead3eb,Vince's Crabhouse of Manchester,MD,0,4.1,1
+0x89b83c770d36bf23:0x8a36aff7d99010a6,Harrison's Eastern Shore,MD,22,4.2,1
+0x89b791cd38fbe303:0x9d8933d3f7a3feab,Marshall's,MD,44,4.9,2
+0x89c799f9cfbed9a3:0x5b009b1e796240ec,Signals Caribbean Grille,MD,22,4.1,1
+0x89b9278d59b5a7df:0x5c51e4cb79fd6ddd,Elliott’s Seafood,MD,26,4.9,1
+0x89c8032b35aba6e3:0x55e75247ee59e0ae,PokeOno,MD,21,4.8,1
+0x89b903779bea99a9:0xe5d3d5890678b0a0,A Salt Shack,MD,13,4.3,1
+0x89b7f7ad2d2c9be5:0x6ceafb906896d42b,Popeyes Louisiana Kitchen,MD,0,3.0,1
+0x89c8077ca87d063b:0x5056c8086bb4b1de,Soul Delishaus,MD,43,3.9,2
+0x89b7cf1de0cb1abd:0xae071b39d95756aa,Popeyes Louisiana Kitchen,MD,48,3.2,2
+0x89c8035fbb8b61d3:0x4eb440f063d9dfd8,Pappas Sports Bar Inner Harbor,MD,0,3.3,1
+0x89b7d33ccbbd9261:0x1216f9e9d56ccf3c,Jazzy's Seafood,MD,22,4.4,1
+0x89c8342ee4152537:0x4d3b18ee785c0ea2,Myers Seafood and Market,MD,0,4.2,1
+0x89c7e9aa5e4128bf:0x750f6775fe5bc5e0,Crab Du Jour Xpress,MD,10,4.2,1
+0x89c80f7d373aaaab:0x524d3c983780fdd,COLIN'S SEAFOOD AND GRILL,MD,0,5.0,1
+0x89b75f0fbbaddab7:0x9f4449d5bb1b193b,Captain Pat’s Seafood,MD,11,4.6,1
+0x89c819fb742bd16f:0xc43266b4abc19400,Not Just Crab,MD,59,4.0,2
+0x89b7a156152f149b:0x4a4268f610ccb721,Rock & Toss Crab House - Waldorf,MD,0,4.4,1
+0x89b901811bbcfd2f:0x9dbce6f9819cc32c,2 J's BBQ & Seafood,MD,0,4.4,1
+0x89c81baef45ade0d:0x8e7b0f1135bfac1,New York Fried Chicken,MD,92,3.9,2
+0x89c9ed551da99da7:0x1fb83a0553f44cb7,CALIFORNIAS TEX MEX,MD,35,4.8,2
+0x89b7e3e3cef72153:0xc4646d80bb0c5164,Cameron's Mobile Seafood - Arundel Mills,MD,0,4.1,1
+0x89b7bf93648d353b:0x679f84386a509698,Long John Silver's,MD,0,1.9,1
+0x89b70d0270a0b5d1:0x2f190e1614cddc9,Farrell's Seafood,MD,0,3.7,1
+0x89b7f6cfaa6d63e5:0x15477bf938298860,Bonefish Grill,MD,0,3.8,1
+0x89c80df9ef29ffb3:0x7eab69968548e1e2,The Corner Stable,MD,586,4.4,3
+0x89c824d396b8fd6b:0x4bfcdbeb92f5de25,Salerno's Restaurant & Catering,MD,404,4.4,3
+0x89c8127eaf96fba9:0x5ec6c0a984e72327,Dutch Harbor Seafood,MD,0,4.9,1
+0x89b849f8f96d64d1:0x99debf512ac8e196,Rock Lobstah's Groove City Arcade Bar,MD,0,5.0,1
+0x89b8d3f97118879b:0x5fe113f0bdb57384,Leo's Subs Crabs & Chicken,MD,28,3.6,1
+0x89b77d86a73bc01f:0xe79e0a07bc38413d,S and C Seafood,MD,0,5.0,1
+0x89b7c09c34aa9b95:0x20088c723b2d97f8,America's Best Wings,MD,60,4.2,2
+0x89c803629c02a719:0x3fbd6cd654478f38,The Capital Grille,MD,653,4.7,3
+0x89c805db1061cd3f:0x26153816f39bb0a5,Fishnet,MD,15,4.5,1
+0x89b7a9c724a8a349:0x6e3b4f05804486ed,Doc's Crabs and Seafood,MD,25,3.9,1
+0x89c804b3e779df01:0xbe3acba87108442,Sissy's Seafood,MD,29,4.1,1
+0x89c805cee8d757c5:0xb34775c26710c153,Oriole pizza,MD,0,4.2,1
+0x89b7a65df6876de3:0xb10320661598d0a0,B & S Seafood,MD,49,3.9,2
+0x89c81b1dc592c9d9:0xe070aaaa93979a07,Rock Seafood and Fried Crabhouse,MD,0,4.3,1
+0x89b7627e3e105095:0x195f5cadc96362cc,The Striped Rock Restaurant,MD,33,3.3,2
+0x89b7f3e6d78c972b:0x596c4b0892bc3462,The Crab Shack Edgewater,MD,17,3.6,1
+0x89c81f2595db0199:0x9f6427f17663af38,Foobao Steam & Delicious Restaurant,MD,20,4.7,1
+0x89c7ddce9507677b:0x8458f14e759f6fa6,Main Street Oyster House,MD,20,4.0,1
+0x89b875afbcacdaa5:0xe105c955e0947185,Buddys Crabs,MD,11,4.8,1
+0x89c803f39f635da7:0xfc38564e02530718,Canton Dockside,MD,45,3.6,2
+0x89b7c63a7ae53657:0x8a54c9b550e6188,Caribbean Sea,MD,56,4.3,2
+0x89c9dac265e89b4d:0xfe093443ce05b314,The Chicken Basket,MD,50,3.7,2
+0x89b78c1cce2a7807:0x7b7b31eacb148583,Parks Crabs,MD,0,5.0,1
+0x89c7fe3b298820b1:0x44230467e54cd22c,Captain Jimmy's Crab House,MD,67,4.7,2
+0x89c7a369aa30d2f9:0x378942851224600c,Sunset Cafe,MD,0,4.2,1
+0x89b788a6b3dc763f:0x5523110392dc720f,"Olde Bay Tavern - North Beach, MD",MD,0,4.4,1
+0x89c992ec4456718d:0x8a46d292f3ec56e7,Black Eyed Susan North,MD,54,4.4,2
+0x89b7e3e400f03e39:0x2bfe56880e7cd274,Joe's Crab Shack,MD,64,3.7,2
+0x89b761c68fb537ed:0x5ce4adc412fb6d2a,Sawache Asian Seafood & Crryt,MD,0,4.0,1
+0x89c808b17ec81d45:0xd33c9beeb0e20088,Parkville Crabs,MD,136,4.1,3
+0x89b7bb70e5ee0379:0xb5076d704c61bb6d,Cori's Modern Kitchen + Bar,MD,27,4.6,1
+0x89b7dd9d49799cab:0x2bb682fd4523ab9a,Emmerts Seafood,MD,85,4.6,2
+0x89c8047fc3d3736b:0x515d14e244eb46bc,Tela Mares Restaurant,MD,84,4.2,2
+0x89b7be927cb00001:0x7171689794838f52,Long John Silver's,MD,14,3.5,1
+0x89b7bec412f199d9:0x4161036c3289c39f,Garcia's Carry Out Fish Chicken and More,MD,50,4.5,2
+0x89b849f8561b132b:0x8a9e43926ed11105,Rock Lobstah,MD,54,4.4,2
+0x89b9d75fe0e9d3dd:0x9e73d0afaf970bb7,Atomic Seafood,MD,25,4.5,1
+0x89c8049d3c27723f:0x725feb8ab8d760e9,Ruth's Chris Steak House - Water Street,MD,0,4.6,1
+0x89b7fbd70f55f8a3:0x3e6db9de1049d9b8,Joe's Seafood,MD,144,4.4,3
+0x89c7c28f67367ab1:0x1b03524f93fd12c,Phillip's Seafood Express,MD,0,2.0,1
+0x89c7da723cbe52c3:0x628f6f73c3d49ee0,Blue Crab House,MD,45,4.6,2
+0x89b8095bfa5a95db:0xaa6273ef74eb140,Wheelhouse Restaurant,MD,46,4.4,2
+0x89c819fb19816e2f:0x200184468e9556db,The Crab Queen,MD,10,4.6,1
+0x89c82eddf7f25145:0x9829e151c38d8c3e,J & T Seafood,MD,41,4.8,2
+0x89b7629b0b8e7471:0xc618b0820b7d09d0,Isaac’s Restaurant & Pub,MD,14,3.2,1
+0x89b83c56af0862e5:0x9d0cdb64f142129,Harrison's Harbour Lights,MD,24,4.1,1
+0x89c8067f02b007d7:0x3c57a6958933ced1,Long John Silver's,MD,107,3.3,3
+0x89c7fdc2fef23149:0xe285d99a76b16ca1,Pisces Crab & Seafood,MD,38,4.4,2
+0x89b929ab3fc3f8e3:0x28576dce5a4608af,Ocean City Fish Co.,MD,61,3.8,2
+0x89c8163a0928133f:0x96ce8a463d8f0ec5,Asian Taste One,MD,13,3.8,1
+0x89c80f24ffe851d1:0x38dcec11b1417b5a,Oriental Wok,MD,34,3.7,2
+0x89c81840c6002333:0x11b645541764c688,Fat Daddy's Crabs,MD,0,4.4,1
+0x89b7b971839ba221:0xa085a60e2f27fe39,Mid Atlantic Seafood,MD,87,3.8,2
+0x89b7ba672b6448f7:0x3d924fb1820d7b2,Kasco's Seafood & Subs Crab House,MD,50,4.2,2
+0x89c78ec989886e8d:0x85fc7808c61a0205,Billy's Crabs,MD,24,4.0,1
+0x89c80faea7486b47:0x811bb681e2a9355a,Razorback's Raw Bar & Grill,MD,104,4.0,3
+0x89c81cd5e3159e95:0x2a3d20fcc920f073,Long John Silver's,MD,122,3.6,3
+0x89b7eeed3a9cc1cf:0x41ee514f65ad69e4,Allison's Restaurant,MD,63,4.5,2
+0x89b7b971a519527d:0x22a685f0d9a3436,Yesterday's,MD,28,4.2,1
+0x89b7bbd5d3cd5029:0x6f2bc6d5b99e0f87,Down home seafood,MD,32,3.6,1
+0x89b7b92a5339d551:0x86cce3a08258b52,Suburban Seafood,MD,197,4.1,3
+0x89c80d0ac06eb775:0x724041bf077770fc,Crafty Crab Cockeysville,MD,0,4.2,1
+0x89b929a37d6233bb:0x6b2d0cade8567995,Buddy's Crabs & Ribs,MD,34,4.2,2
+0x89c806348639d0d7:0x5a2e1bc690dde52e,Bill Bateman's Rosedale,MD,156,3.9,3
+0x89c84035a5b8c495:0xe519abbdaecf94c5,Steamin Mad Crabs,MD,32,4.3,1
+0x89b7bf11bcb46319:0x8eea123e6d131d07,Long John Silver's,MD,85,3.9,2
+0x89b7dd2a93a79027:0x136f09adb6c64f3b,"Sakura Japanese Steak, Seafood House & Sushi Bar",MD,379,4.3,3
+0x89c81d94df65c113:0xdd151e9f66eb20c7,Bryan's Chicken,MD,95,4.1,3
+0x89c81d181a274255:0x9f0fe0b56852880e,Lansdowne Inn,MD,94,4.2,3
+0x89c8051d9e085201:0x2d28defb289c848c,​Tian Yi,MD,11,3.8,1
+0x89c7e3d3c1a136f7:0x475c86a61507a4cc,Chase Plaza Seafood,MD,11,4.5,1
+0x89b7e3513d3fdac7:0x597474d87a8fc16f,Popeyes Louisiana Kitchen,MD,79,3.3,2
+0x89c9f3222ec568a7:0x3efbe59565f3635d,The crab 99,MD,72,4.5,2
+0x89c80388f8e118f7:0xcdfd18095fb3a43d,Langermann's,MD,56,4.4,2
+0x89c80f6b453271e1:0x91acda08207dccc5,New York Fried Chicken & Seafood,MD,126,4.0,3
+0x89b7e9534089f9e7:0xa23286f843933d1a,America's Best Wings,MD,95,4.0,3
+0x89b7628510c67531:0x73c4bfc31e8e8800,Captain Smith's Seafood,MD,134,4.4,3
+0x89b7dbd261208d19:0xaa43c84d51bccda1,Karen's Seafood,MD,11,4.2,1
+0x89c804a102cc3279:0xd7f15eac0e965977,Kim's Seafood & Raw Bar,MD,0,4.4,1
+0x89c804095f302833:0x6c472321aa5b78e3,El Puerto Jarocho Mexican & Seafood Restaurant,MD,31,4.3,1
+0x89c83df90ff78507:0x224c92003967eb30,China Jade,MD,20,4.0,1
+0x89b81a1279a9183f:0x410862283b394c15,Strongs Bay Seafood Inc,MD,0,4.8,1
+0x89b7bcf4ef7ca843:0x24e27543a88880b1,Captain Peter's Seafood,MD,158,4.2,3
+0x89b62d211d9c4d23:0xdf79987368d9e806,Rook's Corner Restaurant,MD,0,4.1,1
+0x89b7c1c22584d38b:0xfc68d70d47701298,Sea Star Restaurant,MD,105,4.0,3
+0x89b76319b62b4e39:0x7d954f704b720b35,Bugeye Grill,MD,45,4.3,2
+0x89b7c40b00c326ef:0xe1bdf96f6ffc6575,Eddie's Cafe,MD,49,4.0,2
+0x89b7c77e8d56042d:0x7e7239545292ea65,Miller's Ale House,MD,131,4.3,3
+0x89b7a571fa0f8227:0x8c21b6ae217bde5e,S & S Seafood,MD,32,3.9,1
+0x89b7fd40ea90f4a7:0xa708b2aee9a43cd5,The Good Stuff Wings and Seafood,MD,14,4.5,1
+0x89c80f4287434ecb:0x7b97fb33a2337c26,Colin's Seafood & Grill,MD,175,4.5,3
+0x89c9e7dc208cce6f:0xae8f15a66b54ce,JB Seafood,MD,155,4.7,3
+0x89b7c775b9498293:0xa453b0b89ee0666,Potomac Fish House,MD,275,4.4,3
+0x89a52f760086386f:0xd49d73c85d13e8b2,Corolla Seafood Buffet,NC,0,3.7,1
+0x88541fe732ca64ff:0xcd0335cf35f177c,Louisiana Lucky Phat Seafood,NC,13,4.3,1
+0x89adbc1fa2911fdb:0xdd13364846c62db7,JJ's Fish & Chicken,NC,37,3.6,1
+0x89af8f092df92d95:0xbef3511f722e9498,The Cypress Landing Restaurant At Bayside Marina,NC,12,4.5,1
+0x8859f34145ec1ee7:0x5e5e5e3f484e66da,Crab Du Jour - Asheville,NC,71,4.2,2
+0x89ae10d8f5e4f4d7:0xc8e972b988afee38,Bobby's Seafood Grill,NC,0,4.1,1
+0x89af75ef0eb69dd9:0x7c5d376a9b3e0ee7,Trumps Restaurant 2,NC,12,4.9,1
+0x8859f97288dbf2d3:0x3fac543a8b73c2e0,Brown Trout Mountain Grille,NC,0,3.7,1
+0x8854240278678965:0x6393ef62737d6a16,FINZ Raw Bar and Grill,NC,0,2.8,1
+0x89a4fbf57eb997bf:0x9bcf8c5cd30fb4d4,Tilletts Seafood,NC,0,4.6,1
+0x89a893e1a33403e1:0xb79f2510dca260da,Captain Q's Seafood & Smokehouse,NC,0,4.1,1
+0x89ad1538fc681659:0xe66cbbe31f1cbe27,Depot Southern Bistro LLC,NC,11,3.7,1
+0x89a521aa698c30d1:0x58e81f8e9c1e112a,Juicy King Seafood Restaurant,NC,0,4.7,1
+0x89a52ed03245c4fd:0xa4ddef6db53b08ad,Salt Water Grill,NC,0,3.5,1
+0x8856a494d14c08df:0xf330321d7ec32e05,MVP's Raw Bar and Grill,NC,0,3.2,1
+0x89ac016a6e674cf7:0xef1953af0419955,Downtown Seafood Bar & Grill,NC,0,3.8,1
+0x88569936548acbbb:0x31e59fd67c9fc9ca,Crab Du Jour Whitehall Cajun Seafood & Bar,NC,21,4.1,1
+0x89a9f9d696817e49:0xf82fb07c4aa6dc4,Vinny's Seafood Express,NC,0,4.8,1
+0x88531fab46aa111b:0xa427e88a4d621cf9,Shrimply Delicious Seafood Co.,NC,0,4.3,1
+0x89ac8dd71185be65:0x8afeac6b851f3d93,Akami Sushi Bar,NC,0,5.0,1
+0x8900a0400c3fdb3b:0x18e9477b2a8572ae,Boone Docks,NC,0,4.1,1
+0x8856a17c99ae6839:0x881ed6910353d7ea,What the Fries,NC,36,4.6,1
+0x89a4e1169aa570c9:0x5ab5a3dc4c8bc500,Outer Banks Boil Company,NC,0,5.0,1
+0x89a89372c63c3c53:0x41bf4a86da8748e7,Outback Steakhouse,NC,0,3.3,1
+0x89af8fb1d7b3b531:0x29d3cbd23bfd0cd1,The Table At Inner Banks Inn,NC,20,4.5,1
+0x89acf26a1ee9fc57:0x37a63bd9cd46448c,Stonewood Grill & Tavern,NC,0,2.3,1
+0x89ab6d3432de9c5f:0x9eaf366f4d501043,Sams Southern Eatery Fayetteville Nc,NC,0,4.7,1
+0x89ac5e466d37d707:0xf2cd3471a53148e3,Fitzgerald's Seafood TL,NC,0,3.2,1
+0x8900aba7b510888d:0xa6aed63f750c3128,Horrizons,NC,0,4.5,1
+0x8856c9254902ee11:0xfee22c706486055,Popeyes Louisiana Kitchen,NC,23,3.2,1
+0x88531cf57b67cdcd:0x7b93dea476688bf7,Carrabba's Italian Grill,NC,0,4.0,1
+0x885319cbcf4a720b:0xc588de36626db026,Cajun Seafood & Grill,NC,21,4.1,1
+0x8856a3ac0685390b:0xac900e1a57942828,Monae's Caf'e,NC,20,4.4,1
+0x88569fe996fa9bd7:0x1c6337037bf05541,Primo Prime,NC,39,4.5,1
+0x89a52ed0bcc4b785:0x7855b8d36c3f5e2f,Route 12 Steak & Seafood,NC,0,3.5,1
+0x89ace380676a0447:0x1c76cee43d14156a,R&B Seafood Box,NC,18,3.8,1
+0x89a9f8f06323ffff:0xd386c94abad4178d,The Squeeze Steak and Seafood,NC,0,3.8,1
+0x890086aaafcfe5e5:0x8b8a350851ce6ad4,Coleman's Original Calabash,NC,0,3.4,1
+0x89aeb5f0759986ed:0xd0f82647469ea4fa,Ocean Bay Seafood,NC,12,3.2,1
+0x89a91069fade3e51:0x3021d257cd7c508e,Seafood Carry-Out,NC,40,4.1,1
+0x8854b1ad3ec3f4ad:0x968ecbbbe9884a31,Starfish Restaurant & Bar,NC,0,4.7,1
+0x89a98caebedbd737:0x6ca60e6db15f0cc9,Shuckers Oyster Bar & Grill,NC,0,4.0,1
+0x8853ade16560d3b1:0xfd442ac104ae5eb0,Red Hot & Blue - Winston-Salem,NC,0,3.3,1
+0x88541fd6acf54add:0x514c88b53759426b,Fish & Chicken Corner,NC,114,4.2,2
+0x89a570c109d37979:0x2bc2203b0b7b9dbf,Full Circle Crab Company,NC,33,4.9,1
+0x89ab02fd8ef8fc1b:0x1cb2e27527635f36,Log Cabin Restaurant,NC,76,4.7,2
+0x89ab6b9805780779:0xcc24f4dc35af7a3b,Marley's Café & Lounge,NC,40,4.8,1
+0x89a958fee83efed9:0x3d5401ac757fc610,Johnny's Seafood,NC,84,4.7,2
+0x89a9a6388d91748d:0x40f8e0f769f3a5ca,Inlet 790 Grill & Bar,NC,24,4.1,1
+0x88513438ab891da5:0x9cad658804608971,Dixie's Fish & Chicken,NC,639,4.4,3
+0x89aad57ab26b0139:0x97912214f0c1dd49,Mom's Fish & Fry Seafood Restaurant,NC,33,4.3,1
+0x89ab31dca0d87ccf:0x742a7030b9916a1d,Wangz Bar & Grill,NC,43,4.3,2
+0x8854dd05431157a5:0xeeda185eb3b3b9b4,Seafoodie,NC,18,4.6,1
+0x8850b2e203b67a97:0x875321683835f699,Hook & Anchor Family Seafood,NC,491,4.1,3
+0x89a8faed0e6c354d:0x990c3396e3d3f0a3,Ballyhoo's Island Grill,NC,0,3.3,1
+0x88541ff6bee0d0f5:0xf2b3adbb67525e86,Roy's Kitchen & Patio,NC,55,4.4,2
+0x8856b2a9025071a1:0x7e8b638ffe7ddcab,Landing Restaurant,NC,238,4.2,3
+0x88541e160772f1ed:0xde067b4b52c7ae48,Chicken Box Cafe,NC,840,4.2,3
+0x89ab136d7a05fb83:0xa38b210d11e435aa,Crab Du Jour Xpress Cajun Seafood,NC,48,4.4,2
+0x885131958911d9b9:0xb06cd44bb1cbe930,Captain D's,NC,369,3.8,3
+0x89aef4eb857a3721:0x759b4d22993e7e22,Tarboro Seafood,NC,39,4.3,1
+0x89a8d1b558055673:0x93620d9b8acc39d,Mama Callie's Louisiana Seafood,NC,53,3.7,2
+0x89ac03ccf10fd461:0xe24e13437a5cbe0a,Great Wall,NC,54,3.5,2
+0x8852565e55816139:0x4db343eded648cdd,Hooked on Main,NC,0,4.2,1
+0x89a9f3720bf33753:0xdd89a437eb9b4538,Brent's Bistro,NC,121,4.8,2
+0x89ae87eebba0de7b:0x55ca815715503cc8,Tasty Crab House - Rocky Mount,NC,26,4.2,1
+0x8856bf27f6be7ea1:0xb84a251462a808b2,Yummy Crab,NC,36,3.4,1
+0x8853192198174cd3:0x91742e27c218c5d7,Juicy King Seafood,NC,0,4.2,1
+0x8859eb00e8f9fad9:0x146c9325b5d2a56d,Mariscos El Paso,NC,25,4.5,1
+0x89ac68c1c3846b3b:0x31e0994470e5035e,Emperor's Choice Chinese,NC,97,3.6,2
+0x89ace5ffc200f1ad:0x8c8b57ecd762d568,Big T's Fry Fish,NC,29,4.6,1
+0x8859f33c4bf402e3:0xcae4b898fa26a7d0,The Local Lounge & Kitchen,NC,28,4.3,1
+0x89afa684fff5a901:0x20f2540935ee0031,Ella's Cafe,NC,59,4.3,2
+0x8856a24c4c3ad92f:0xd012dfa69b105017,Us Fried Chicken & Pizza 28208,NC,18,4.0,1
+0x8854faf1ed8605f3:0x396f62b65d0051f,Welika Fish House,NC,126,4.5,2
+0x8850a4db5b491a55:0x35a2cde9b627c423,Jerri's Seafood & GRILL,NC,18,4.3,1
+0x89aa1e3cc2f1ba17:0xccae7a9dff8f5977,Fu Wangz,NC,142,4.4,2
+0x8900a0468d4b5b75:0xa3e16a146fd699dd,Captain Pete's Seafood Restaurant,NC,24,3.7,1
+0x88569a7f194cc84d:0x9962e32218b83cf1,River Bleu Steak & Fish at the RiverGate,NC,27,3.5,1
+0x88569f8605954569:0x3c39bbd8a0ca0f75,HI Tide Poke & Raw Bar,NC,43,4.2,2
+0x8853197ff33ef9bd:0x70d387a9303628de,Los Koras Mexican Seafood & Grill,NC,93,3.9,2
+0x885699c219744785:0x2d923609ab484502,Krustaceans Seafood Restaurant,NC,98,4.5,2
+0x89ace3edbdcacd3b:0x97756b913b1879a0,Pan Pan Diner,NC,24,2.4,1
+0x89a9f9b4abc99abf:0xf4c6d1a082f39b68,Cape Fear Boil Company,NC,42,4.8,2
+0x88512947562d92bb:0x2ce7e04f4400c56c,Tex's Fish Camp,NC,179,4.7,3
+0x89a911b577068a81:0xcad400c63e5118d3,Ocean Bay Seafood,NC,98,4.2,2
+0x89ac7284c1325983:0xf7d7cd38e22e6ff3,Carolina Fish Fry,NC,16,4.2,1
+0x89af67c09827e32b:0xd011933e079f74a7,Georgie's Sport & Oyster Bar,NC,26,4.6,1
+0x89a891695e9cc1fb:0x3add471402f6f2ad,Parrott's On Eleventh,NC,70,4.8,2
+0x89a9f5a10ec7e1f7:0x7309ae6ae31b509e,Seaview Crab Company Wilmington Kitchen,NC,16,4.7,1
+0x89a8fdbb4e17c2ad:0x25d5e492783418c2,Caino's Red Barn Grill,NC,41,4.6,1
+0x89a8912a983be143:0x24b73ea804a97b37,Beach Box Eatery,NC,15,4.4,1
+0x885682c3ee9b6325:0x3e07485a1dfa33a,Carolina Meat & Fish Co.,NC,37,4.0,1
+0x8856df0b100480a5:0xdd86404ce809af92,Cotton's Seafood Restaurant,NC,63,4.5,2
+0x89a45b2fe5555555:0x19473990599f5793,St Waves Seafood & Steaks,NC,0,4.0,1
+0x89ac85729617c787:0xba2916b00f42dfbc,Seafood Express,NC,64,4.4,2
+0x8854f81611ad81e9:0x3b06015f8f6e8e52,Jones Creek Fish Camp,NC,48,4.4,2
+0x8853ae63b56f4ea3:0x9abdbb612155e890,Long John Silver's,NC,0,2.8,1
+0x89acf58c9fbb56e5:0xd23d9a04c089bd62,Faire,NC,0,3.0,1
+0x89ace6827f51fb5b:0x4e62440956acc31a,Shrimp Boats,NC,10,4.3,1
+0x89ac92bae90e781d:0x3daf1fab7700da9d,Rock Harbor Grill,NC,0,3.6,1
+0x88531d6fea0b7509:0x4dc899ac6144221a,Crazy Crab Seafood and Grill,NC,86,4.1,2
+0x89bacd85358426a5:0xb7dc52b657ca9a20,Pearl's Bay Villa Restaurant and Marina,NC,18,4.4,1
+0x88531e59b4604677:0xe7141c5d28dd31f7,Luna Mexican Seafood Bar & Grill,NC,275,4.2,3
+0x88515993d16954ff:0x7c3c6516c616f5a4,Skinner's Seafood To Go,NC,124,4.7,2
+0x885970245b920f3d:0x28b29b74f6466f2d,The Moonshine Grill,NC,40,4.2,1
+0x885308d7da332b97:0x82e3faa814e6790d,Blue Water Grille,NC,127,4.6,2
+0x89a9f2e38f0e977b:0xb6fe1d2b658a67f,Oceans Restaurant,NC,29,3.8,1
+0x8851ab61f99e5c9b:0x47cbbf69cbd32402,Shokudo Japanese Seafood,NC,72,3.9,2
+0x89acfb4a63e63a55:0xa6eec2c17ec29ce4,Poke Bros.,NC,74,4.8,2
+0x89acf594f4e61463:0xe4a25b1e84982815,Hangover Grill/Shrimp Cage,NC,62,4.7,2
+0x89aa1fc7d2d00855:0x8604a1f3bdc210c0,Aubriana's Steak & Seafood,NC,30,4.2,1
+0x89a9f53b1056b4d9:0x1a7cf0437ea48019,Ocean Bay Seafood,NC,32,3.9,1
+0x88541c259536e637:0xe00330bdc09ea348,Fuse Buffet,NC,0,3.9,1
+0x89aa1fd3e7a56221:0xf44e0514810b380f,Seabird,NC,0,4.9,1
+0x8856be368d8ffe81:0x8515e113a398bddf,Sakura Japanese Restaurant,NC,120,3.9,2
+0x89ac5f79761684d5:0xa288a43e38712525,Cousins Maine Lobster RALEIGH 🦞,NC,76,3.5,2
+0x88530ac89f81c2fd:0x5745eae891996fce,Captain Tom's Seafood,NC,59,4.3,2
+0x88540f6dfcab242b:0xbbf082726860f8f5,Divine Fish & Fixin's,NC,86,4.3,2
+0x89aef5373b4b5f41:0x5099b1e43015e854,33 Oyster Shack,NC,77,4.4,2
+0x88531f48dab77b71:0x764039d7234d05ec,Lil Chef,NC,46,4.6,2
+0x88531bd35312551d:0x86695417d23d9484,FATZ,NC,0,4.3,1
+0x88541b4d1a65ee4b:0xdaa6b07fb0f356b1,Shake Shake Seafood,NC,171,4.7,3
+0x89aeaa1c14eb3f0f:0xdd69bcb561bc1cda,"Quickie D""s Seafood",NC,0,3.7,1
+0x89acc2e1e435bb27:0xcca569f7678725f6,Guru India Restaurant,NC,31,4.1,1
+0x885318f81f768ef9:0x66fbdd9c418daee5,Ocean Blue,NC,153,4.1,3
+0x89ac26b8e7a2b58b:0x4a7fb6424d85aa80,Long John Silver's,NC,0,3.0,1
+0x89ac219907ccecb5:0xddbd2cdbfaeac2c7,Popeyes Louisiana Kitchen,NC,42,3.6,2
+0x89aced027904d45f:0xc8899bd03cc5d3c,LemonShark Poke,NC,60,4.7,2
+0x88545f66c1e46599:0xf5da3cc04d641311,The Old FarmHouse Buffet,NC,55,4.7,2
+0x89a9f36e66056817:0x35458f2eec8a5841,Port Land Grille,NC,89,4.4,2
+0x89ace3b54749b56d:0xfc34d5b2fa6c6ce9,Blue Stingray Seafood Restaurant,NC,66,4.3,2
+0x89ac58459a629dbd:0x6ed7c989de8ba25d,Kamado Grille,NC,78,4.4,2
+0x88569fe7cf3bed15:0x4c9e6463d82c236d,Southern Pecan - Gulf Coast Kitchen,NC,53,4.5,2
+0x8856a178f7d202ab:0xe8f334551588eed1,Baltimore Crab Cake Co.,NC,0,4.8,1
+0x89a890ead43752d3:0x70b445ba437a5d0b,Aqua Restaurant,NC,122,4.6,2
+0x890007d78c3e5ab9:0x4f105096aaef191d,The Aynor Inn,SC,0,4.3,1
+0x88fc6d0f0819d453:0x39c965c15a435347,Port Royal Seafood Inc.,SC,0,1.0,1
+0x88feef8abbcfe199:0xa6ba3f7271870913,Taste My Garlic Crabs llc,SC,15,4.6,1
+0x88582c3226b86be5:0x65b465180190008c,Hampton Seafood,SC,0,3.9,1
+0x89007d8580c6b751:0x7bc7cc9115bc6cfa,Steven's Restaurant & Oyster,SC,22,4.3,1
+0x88f8d5d6fd08cf8b:0x1c0c47fe998afbbc,Brooklyn restaurant and loung,SC,0,4.4,1
+0x88556614b877f8f9:0x3f3002daab9ab432,Lobster Express Co.,SC,0,4.3,1
+0x88fe7a6b7c263bcd:0x6b0a30b679622a86,Coast seafood,SC,0,4.6,1
+0x8855d70a69fdf00d:0xc57057e59da162bf,Mo's Seafoods,SC,0,4.6,1
+0x88fe5b2fc7bab96f:0x102625ff8cfa9fdd,Popeyes Louisiana Kitchen,SC,50,2.4,2
+0x88fe7a3638fabc1b:0x93caefa22f46ae44,Crosby's Seafood,SC,0,3.6,1
+0x8858303322e16a6b:0xe9c55a79bc796224,Ford's Oyster House & Cajun Kitchen,SC,0,2.6,1
+0x885828cf0242b82b:0xe7f73ca9136935d,Tavern 24,SC,0,2.5,1
+0x88fe8b5c1bca58c9:0xbe3d3e20516b2d3e,Three Cafe Restaurant,SC,58,4.1,2
+0x89006495b2d6fc45:0x8b0364b0ac298066,Islamorada Fish Company,SC,0,3.6,1
+0x88fe7a0dc90db275:0x4b06acb1f778fdd5,A. W. Shucks Seafood Restaurant,SC,15,3.6,1
+0x88f8d4f54d35b749:0x2b0165002572a62b,The Seafood Academy Of Columbia,SC,31,3.0,2
+0x88f8afb7014a06fd:0x20f57d11f34bb025,Submarine Crab South Carolina,SC,0,4.2,1
+0x88fe7ccc1dfdcc39:0x7a1b1a83ca5a0cc,Shipwreck Seafood,SC,13,3.8,1
+0x88fee727227f4219:0xa1cdf1593399a83b,Island Seafood -n- More,SC,0,4.4,1
+0x88fe714f71281e11:0xa33045e104d3167d,Shadrak's Oyster Shack,SC,0,4.7,1
+0x88551b7d13a90049:0x702d3370452849e4,Cornerstone Grill Of Cheraw,SC,28,3.9,2
+0x890069c0151ac739:0xb68cc6941d49037c,501 at Néné's - Takeout,SC,0,4.1,1
+0x88f8ab67e63cfa59:0x84095cb87f7723b7,Poke Bros.,SC,0,4.6,1
+0x88ffd1fbde715555:0xc00d6cad4ebfd403,Jamie's Seafood Shack,SC,52,4.2,2
+0x88fe6d058b69b675:0x29bed5fd604f53eb,Star Taco,SC,0,3.7,1
+0x88583136fd1f515d:0x73e092fe46c0afbe,Marisqueria El 7 Mares,SC,0,4.3,1
+0x88ff6f10644bcc1d:0x7170df648b250056,CRAB SPOT SC,SC,26,4.0,2
+0x88fc2deae9f86949:0x9d90ebb2fd5950a9,Pelican's Nest,SC,0,3.8,1
+0x88ff49384649bf93:0x1d55e2fd8d7c0f8,Fish Hole,SC,31,4.5,2
+0x88fc7992a0af067d:0x75a74d5adfe68634,Captain Gillan's Waterfront Seafood Buffet,SC,0,3.3,1
+0x88fe61f262b4f683:0x8caf04ed6630291a,Chef Racks Garlic Crabs,SC,13,4.6,1
+0x88f8a30edaa2e38f:0x2131fa2dbf4c63e7,Garibaldi Mexican Restaurant,SC,16,3.8,1
+0x890040fa3d400da1:0x779430c2f932b484,Far Rockaway Fresh Seafood and Pasta House,SC,0,4.4,1
+0x88fc7719675bd56f:0x87a878e91e33668d,Chart House - CLOSED,SC,0,3.4,1
+0x88fe7a6baecc1b11:0xd95601a49a5e8bb3,Fish,SC,23,3.9,1
+0x88f8bb1410676aab:0x2dfb7951a760ff76,Crafty Crab,SC,24,3.8,1
+0x88fe716d5c8d67db:0x11514c8501af09f5,Sawyer's On The Boulevard,SC,10,3.7,1
+0x890069bff3b91dbd:0x63701c47812b594d,Big Daddy's Roadhouse Grill,SC,0,3.3,1
+0x88fb89308a66823b:0xcc09f4d25833a306,Underground Burritos,SC,0,3.9,1
+0x88fe6f60a0d01653:0x87f0338beb494190,The Kingstide,SC,39,4.6,2
+0x88fe6ff13de843eb:0x189a4bcb13484469,The Islander,SC,19,4.0,1
+0x88ff9a91e93f6cd1:0x194570239030e374,Turbeville Seafood Market And Restaurant,SC,14,4.5,1
+0x89003f561a6b2e5f:0x61f9eee27ccac263,Heart & Soul Seafood Cafe,SC,53,4.4,2
+0x8858f4e115347a91:0xe73f31f8999539c9,Ram Cat Social House,SC,20,4.4,1
+0x88ff6620bde7e2bb:0xd42d0961de311d47,KayDeAeis,SC,11,4.1,1
+0x88f836617004a93b:0x70612e6a59496a16,Bernice's Best Fish And Foods,SC,0,4.3,1
+0x88fe7a0c5c9eca0b:0x165269e8ae6ac641,Balao - Fresh Seafood & Cocktail Bar,SC,0,4.5,1
+0x88fc0ccf3c3afce7:0xc4e8db484b227bd4,1635 On The Avenue,SC,14,4.5,1
+0x8900635edf717e7b:0xdaeb6e738ec369ac,Four Seasons Restaurant,SC,10,4.7,1
+0x885689be85429587:0x8f1d18b621aebcfb,Popeyes Louisiana Kitchen,SC,11,2.4,1
+0x885802f709055555:0x543bf3f8c801cd82,Catfish Feastival,SC,0,4.7,1
+0x890069ae7ae5c133:0xc9b56a818d9f4bf,Liberty Seafood Buffet,SC,0,3.3,1
+0x88fe7151131ff4c7:0xe66f5466c208a053,Mex 1 Coastal Cantina,SC,347,4.5,3
+0x88f8bd0ef8b6fa65:0x83978f789c9188b8,Crab Man Seafood,SC,41,4.2,2
+0x885833b58887c9d7:0x4a0349f6eac30e1c,Michael's Cajun Seafood & Wings,SC,51,4.3,2
+0x88568945f5b08b35:0x541ad7379a6e078a,Fiery crab Juicy Seafood,SC,383,4.3,3
+0x88fe78f66bcaa55d:0xca5ed4f682b2ae7,Brick House Kitchen,SC,0,4.2,1
+0x88fe63ed602d5bdd:0x6d4b2398518fc15b,Bahama Breeze,SC,79,4.3,2
+0x88fe8d3a763a964b:0x5a536e65390d889b,Rommy's Cuisine,SC,112,3.9,3
+0x88fe63c0c2419263:0x540283b97ea82b44,Port City Seafood,SC,19,4.8,1
+0x88fdd7c1fca1ccb3:0x660e14ffe376187a,The Washout,SC,479,4.4,3
+0x89aacab698b9e525:0xf0e1c6e89b2eb59a,Carolina Seafood Restaurant,SC,60,4.2,2
+0x88ff93421e3fe30b:0x809f8d77599061d9,The Shrimper,SC,0,5.0,1
+0x88fc0d506003438d:0xf466daf5ef728279,Hank's Lowcountry Café,SC,0,4.9,1
+0x88566aa4b43dab0b:0xa2b08d2f2b8398d9,Blackstock Fish Camp,SC,45,4.4,2
+0x88fe61d9ad207c31:0xdd2ac8ce0b6f7860,Ladson Seafood,SC,90,3.8,2
+0x890068535214885b:0xc4a02c5f6bbb9b1c,Coco Cabana Island Cantina,SC,0,3.8,1
+0x890038bd0680dbc7:0x2ee4503c33d8924b,Spud's Waterfront Dining,SC,0,3.6,1
+0x88fdd422dc0e8475:0xd59fc8088298f997,Atlantic Room,SC,15,4.4,1
+0x88f888bae5e19f8b:0xaa5b7bbd7c957c7,Charlie's Fisherman's Wharf,SC,89,4.1,2
+0x88f8bb03faa2104b:0x4d3c8fd0a87431cb,Prime 1004,SC,0,5.0,1
+0x88fe8bb28911e8b9:0xd27d413d01f4286e,Poke Bros.,SC,10,5.0,1
+0x88fe2404d7c3596f:0x788587413fb79c44,Definitely Delicious,SC,33,4.4,2
+0x88f92296e97e8e19:0x47457070cf0e4ad8,Heaven's Marketplace,SC,12,4.1,1
+0x88f906b412f2a2ef:0x3cbf0e1bf7bd481,Seafood & More,SC,46,4.5,2
+0x885602d9ebaa1589:0x5ac7500302728c7,Blythewood Seafood Emporium & BBQ Haven,SC,71,3.9,2
+0x885576714b32feef:0x29374974c99fae69,Betty Sue's,SC,47,4.4,2
+0x88556739e6dc85fb:0x4ca2c1a24d98d223,The Shrimper Seafood,SC,30,4.2,2
+0x890038951828c9ab:0x2c980839623a62c6,Harrelson's Seafood Market,SC,50,4.8,2
+0x88582e791f1a2df7:0x786685cdadb315dd,Cheers Bar & Grill,SC,12,3.5,1
+0x89002ba4b77eda1f:0xd1e5bc29d88e8170,Palmetto Kitchen,SC,36,3.9,2
+0x8857758b31cced3b:0x9de527aeb4088437,Hub Diggity,SC,20,4.0,1
+0x8856884c589df2ff:0x1938dd34deb68c4b,Adam's Fried Fish,SC,22,4.1,1
+0x88fc712d181a5e63:0xcf26a2c3860482bd,Mullets,SC,10,4.5,1
+0x89006abf40f853c1:0x7f7945ef38347f93,El Chepo Taqueria,SC,73,4.4,2
+0x8900655479369181:0x6850cad0819fd12f,SOHO Steak & Seafood Sushi Bar North,SC,90,3.8,2
+0x89007d6c4d9d5c7d:0x8cc8e2b566e4b46b,Mr Crab North Myrtle Beach,SC,19,4.1,1
+0x88fe7d6636c1f8d7:0xf075086fd7cd6ef9,COD TAIL,SC,0,4.2,1
+0x88582a90b7561673:0x43c2f4da96e9ec02,BIN112 on trade street,SC,93,4.6,3
+0x890064ffe819343d:0xb444d4f515f97b1c,Rossi's Italian Restaurant,SC,15,4.1,1
+0x88fb89b84e4c1657:0x1492f14d27afd4c7,Toomers Seafood Restaurant,SC,18,4.5,1
+0x8900311601b24951:0xb8e126280c90b6c8,Get Carried Away Southern Takeout and Catering,SC,58,4.6,2
+0x8857b045b9d15ecf:0xc6586538e94e81a0,Andy's of Buffalo,SC,160,4.2,3
+0x88fe8b3543214207:0x7ddaa643037541e7,Carolina Crab House Summerville,SC,121,3.5,3
+0x890086df9599f1f5:0xc738288f92f1b517,Carbone's Steak & Seafood,SC,0,4.1,1
+0x88f90e6946984069:0xcbdb5394a34c05dd,Lakeside Grille,SC,65,4.1,2
+0x885577429dda06e5:0x7ce75110769f55d7,Maryland Fried Chicken of Hartsville / The Shrimper,SC,193,3.9,3
+0x88fc774c6800b599:0xc4887c22dbc9281d,Outback Steakhouse,SC,15,3.3,1
+0x88fc0b4e7bc55a85:0xbc84e7459583291c,Big Joe's - Beaufort Barbecue and Seafood Restaurant,SC,12,3.4,1
+0x88fc0d767cf0a917:0x75016a31d3946349,Steamer Oyster & Steakhouse,SC,195,3.7,3
+0x88fc13d9e2f49617:0xcd67034927b1607a,Sweetgrass Restaurant and Bar,SC,21,4.0,1
+0x885829728b7dc1f1:0xb18226d32df89516,China Kitchen,SC,80,3.9,2
+0x88fe7cce7539feab:0x1a9604624c9637f0,Sams Southern Eatery,SC,61,4.5,2
+0x88fc273cf6115531:0x225f0f973c7fe95,Capt Jimmy Bell's Seafood Joint,SC,32,4.9,2
+0x88582c2d9c06cd8f:0x682e92094177e185,Joe Joe's Seafood Market,SC,22,4.1,1
+0x88fb8908a3f5f1d3:0x850b8749912e1d80,Sebastion's (Formerly Known As Sigler's Seafood & Steak),SC,117,4.6,3
+0x88fe71d9c1070cbd:0x2910ea6e8f9db778,"Alchemist Beverage Company & Market - Wine, Spirits, Beer, and More on Johnnie Dodds",SC,24,4.7,1
+0x88f95d204f6b3547:0x5300dadf3cebd42a,Boss Seafood,SC,14,4.3,1
+0x88557670db9a37d1:0x649e4720b89b0b44,Captain D's - Permanently Closed,SC,49,4.2,2
+0x8858306317dbe883:0xf867465504783796,Mariscos Los Delfines,SC,16,4.6,1
+0x88fe509de6b67a51:0xe527e6daf9c79346,Hidden Cove Restaurant,SC,50,4.4,2
+0x88f7fb5a6f5df57b:0x8747e0ec0cae2476,Theo's Deli & Seafood,SC,244,4.3,3
+0x89ba851083db2e95:0x3439b511ffc0972c,Healthy Gourmet Express,VA,0,4.3,1
+0x89ba8476612eb891:0xfd803e8a72ec5497,Popeyes Louisiana Kitchen,VA,0,4.3,1
+0x89ba97718dd7f71d:0x9dbb50b003f0b6ce,Richs Seafood,VA,25,4.0,1
+0x89b645d58c1bd4db:0xca70c9992c682207,Gaboja II,VA,0,3.3,1
+0x89ba97bd3ba37b97:0xdb7676ac65bbc139,Seafood King,VA,0,3.3,1
+0x89b65673ddcef38b:0xc1fbef9594e57ca1,Bonefish Grill,VA,0,4.1,1
+0x89b0834c0a27e3e1:0xf78b7fa7b69597f5,Fish R US,VA,18,4.1,1
+0x89ba97e95fbe787f:0xd085ed3ba7a2ff3d,Blue Ocean Seafood,VA,77,4.3,2
+0x89b6c819c3b224fb:0xe4957a71bc67b5e7,Sandy Dent Seafood,VA,0,4.3,1
+0x89b64d3909c20759:0xda887c7354075dcf,YamaChen's sushi,VA,21,4.5,1
+0x89b7b51ca6287ee1:0xfbe73b6b9ec42b82,Vietfoods,VA,0,4.1,1
+0x89b6c112f9d6b111:0xac81ec301b39479a,Ginny's Seafood & Deli,VA,0,4.0,1
+0x89ba95a65fd1b9e7:0x5dedb4fd9cfa6ca1,Chef's Table,VA,0,4.0,1
+0x89b1a66d7e722009:0x206548f9f08614d7,Stix Flame Grill Eatery,VA,17,4.3,1
+0x89baa22dd192f2c3:0xe29379e4177ba404,International Buffet,VA,0,2.3,1
+0x89b7b54f427689a9:0x2dd3545d55fab617,Captain Saigon Seafood,VA,0,4.4,1
+0x89ba9be03f91e651:0xb0bd55fb4ba68031,Willoughby Fish House,VA,10,4.0,1
+0x89bac159c5d05f8d:0xfe0f4853bc0adb53,Outer Banks Boil Company,VA,0,5.0,1
+0x89b06748d63a8bc1:0xaa39980cf8f50c3b,The Colonial Trail Seafood Market,VA,0,5.0,1
+0x89baa1a01369e06f:0xed8a1278e3813ccd,The Twisted Crab-Chesapeake Square Mall,VA,10,4.3,1
+0x89b083970a6a07b9:0x86cd358187f63ca8,IDK Raw Bar Grill and Gaming,VA,22,4.5,1
+0x89b7b65e5d8a8707:0x316423d3f9c71603,Red Hot and Blue,VA,0,3.1,1
+0x89ba99520f689999:0xe29f80db48fff220,The Twisted Crab- Norfolk,VA,0,4.4,1
+0x89ba84b7b0b1a33b:0x3934fbed2f0343a5,Oyster Alley,VA,16,3.2,1
+0x89ba8369dd51b461:0x8dac3970e65e0086,Southern Comfort Restaurant and Lounge,VA,12,4.4,1
+0x89b117de17d67783:0xdc70b2011b07850d,Boil Bay Cajun Seafood and Bar,VA,11,4.8,1
+0x884d41bbb2222347:0xaf9ec6d46e1c37ec,Pier 122 Seafood,VA,12,3.7,1
+0x89b6c1ce8a1af6f1:0x15dce8d3c48abe61,Long John Silver's,VA,0,1.6,1
+0x89ba95224b9a0a07:0x240cd546f1a24f60,Seafood Kitchen collins square,VA,0,3.8,1
+0x89ba81636bcb2f03:0x93547e0056d5f413,Port 151 Raw Bar & Grill,VA,12,3.4,1
+0x89b23ad6142aef25:0x4326b72e6044cb7f,Long John Silver's,VA,48,3.7,2
+0x89b63da518bb3daf:0xc3df00b356793c20,Island Food To Go,VA,0,3.9,1
+0x89b2d9845bb2f31f:0x4f21e49834ea546,Main Street Sports Bar & Grill,VA,31,4.6,1
+0x89ba965ccda6d07b:0xddc48e816f4c2065,(food Truck) Prime 757: Craft Meat and Seafood,VA,10,4.9,1
+0x89b117f70efa093b:0xd576a2d6b48edced,Red Harbor Seafood N' Chicken,VA,58,4.6,2
+0x89b5ac74feac02bb:0xca2b97ed6d370e2d,Captain Billy's Seafood,VA,13,4.7,1
+0x89b492b0bc02abb3:0x132209587b38c9ad,Captain Crab,VA,31,3.9,1
+0x8852b3605ae9f0c7:0x117304c68416409c,Seafood & More,VA,50,4.3,2
+0x89b35d9a88d97d79:0x78681b28056f1521,Old School House Restaurant,VA,0,2.8,1
+0x89b13dbf9179777b:0xe3c75100e7654d2b,Perfect Pollo,VA,70,4.7,2
+0x89b1112741efcfad:0xb41fe7da8a024784,Chicken Shack,VA,49,4.3,2
+0x89b642cece0137f7:0xb5f1e3e7e043b1c4,Red Hot & Blue,VA,20,3.7,1
+0x89b7b136a6c49121:0x8e76b87a5b57a8de,Riverside Taco Company,VA,12,4.3,1
+0x884d9574d0bc83dd:0xa63dad025c79a6e7,Social House,VA,15,3.6,1
+0x89b6454cf7ffe4d7:0x1655901957b7a4be,Bourbon Boulevard Chantilly,VA,13,3.8,1
+0x89b73d821b61f275:0xfd633f209492cc57,SeaSide Thai and French Restaurant,VA,12,4.7,1
+0x89b655f1b59bfe77:0xaaf5dd7f8e8bc001,R & B Chicken and Seafood,VA,18,3.2,1
+0x89b6f88e2b3fea1d:0x5088236704964cb4,Vernon & Steve Crabs,VA,26,4.8,1
+0x89b719808e5b757b:0xba6075016a237eff,Steamers Island Grill & Bar,VA,13,3.4,1
+0x89b7ad1c0273a315:0x60bae67e17434f8c,"Red Hot & Blue - Kingstowne, VA",VA,18,3.3,1
+0x89ba980bbc5ec4a9:0xb7002553d5a0363e,Joe's Crab Shack,VA,0,3.2,1
+0x89baebcae95d1d07:0x4f053bb6df55336,Otani Japanese Steakhouse now Kuktop Grill,VA,24,3.6,1
+0x89ba83a02e94057d:0xc817cbdf14f7cc5,Seafood Kitchen,VA,40,3.9,2
+0x89b4771350a29f09:0x9c5b71cf47c2ce36,Skrimp Shack,VA,48,4.2,2
+0x89b00ee325f4c6af:0x4fea688efff6907f,Long John Silver's,VA,16,3.2,1
+0x89bac009c5f8e069:0xbebc187e71e2635d,Captain D's,VA,0,3.1,1
+0x89b077e200b8d757:0xa34408610ee94f40,Crab Shack on the James,VA,920,4.0,3
+0x89b655ee3c41955d:0xb35ac21b78c925d0,K2 Restaurant and Lounge,VA,50,3.7,2
+0x89b7b3fcab424e3b:0x3e3a322411dadba8,Popeyes Louisiana Kitchen,VA,532,3.7,3
+0x89baa04d329b3027:0xaa43a8a533700685,Red Lobster,VA,997,4.0,3
+0x89ba9f7bb942b63f:0x872c794d02fe58b1,Anchor Seafood Grill & Oyster Bar,VA,38,3.7,1
+0x89b7b6f5b1ee2249:0x7a0fa97db30b464d,Quarterdeck,VA,496,4.4,3
+0x89b44dd9a93f8699:0x3b36ee011e635c88,Mok-N-She's,VA,72,4.5,2
+0x89b112349e91e749:0xee92ec70eeb3b3a2,Maldini's Ristorante Italiano,VA,208,4.2,3
+0x884535f57e447e5d:0xb4c7a3db942aa33,Long John Silver's,VA,23,3.8,1
+0x89ba9f18a364e911:0x5616096c0100153,Billy D's Seafood,VA,20,4.5,1
+0x89b079723692d4a1:0x18f2326758b40aad,The Twisted Crab-Patrick Henry Mall,VA,0,4.5,1
+0x89b114f6249affff:0xc6cbc18e841a6047,Crawfish TOGO,VA,0,4.8,1
+0x89b64f757e8212dd:0xa604deafbe931f89,The Capital Grille,VA,0,4.7,1
+0x89babdf67af087a3:0x5a81098c36c28943,Pier 88,VA,72,4.4,2
+0x89b0750f4a518ae3:0x9b83fd91e7b0a276,Cedar Point Club,VA,18,4.6,1
+0x89b649f184ca95eb:0x8a32471e1dc2a27e,Willie T’s Seafood Shack,VA,0,5.0,1
+0x89b6c6cda21dc475:0xfffa698ed0404f78,Mad Crab,VA,0,3.3,1
+0x89ba02bbb87537ad:0xba6ec93a1cebdbc,Fairport Marina,VA,19,4.6,1
+0x89b6f8d84317f759:0x889c4274dbcb831,Juicy Claw,VA,55,3.4,2
+0x89b07f6b8355c9b9:0x8658731a737000bc,Tasty Crab House,VA,29,4.1,1
+0x89ba95d82f52b657:0x31612b6cd1e1a60,Young Seafood,VA,49,3.1,2
+0x89b5ee56547514e7:0x39ea8956e2bc96f5,The Millwood Seafood And Steak,VA,0,4.7,1
+0x89baecb1bb00b159:0x7a7384eb4f9d0525,Pier Cafe,VA,0,3.6,1
+0x89b11296fd32bfdd:0xf99372658687c7f0,Long John Silver's,VA,109,3.7,2
+0x89b100b33e0cd3a3:0xf05adb8d58678877,Greedy Spoon,VA,0,3.9,1
+0x884dfc48cfe3efc7:0x3d8f3b5c098dd070,China Wall Restaurant,VA,23,2.5,1
+0x89bac308349a7601:0x1674749d739f6e6e,Simply Steamed,VA,42,4.4,2
+0x89baecb1a5cbc4c7:0xa74d2b3d3d6f3ab1,Lynnhaven Fish House Restaurant,VA,77,4.2,2
+0x89b73d3d42524ff3:0x1e59abbe7228f605,LightHouse Restaurant,VA,94,4.1,2
+0x88500502e1f367bb:0x3bfbe05b79fbf5ca,Long John Silver's,VA,74,3.9,2
+0x89b6481f36900667:0x91373e2a7a86d693,M&S Grill - CLOSED,VA,31,3.7,1
+0x89b169de42d9aeed:0x69cc9a17e96dddbe,JJ's Seafood,VA,26,4.6,1
+0x89b64af46a576a43:0x31cd60d2502b5cf5,McCormick & Schmick's Seafood & Steaks,VA,88,3.8,2
+0x89b2db405a518c11:0x85155d1c27eb1c17,Popeyes Louisiana Kitchen,VA,20,2.5,1
+0x89b96583f6f8b289:0xbeaff2038a63eb8,Wright's Seafood Restaurant,VA,0,3.6,1
+0x89b65cfd1c1de0bf:0x715522d1b3fb2708,Americas Bar & Grill,VA,15,4.1,1
+0x89b989f56ecb2f0b:0xbcb8653f91b063dd,Fisherman's Corner,VA,24,4.7,1
+0x89b07db968c1be2d:0x2d4f1e6181b216f9,Popeyes Louisiana Kitchen,VA,28,3.4,1
+0x89babdc36f510acb:0x67834faa4b3cd0a3,The Swan Terrace,VA,93,4.1,2
+0x89b64eecc655e20f:0x60e248999227af2,Red Zone Grill,VA,51,3.3,2
+0x89ba9d53cd3a0df5:0x3e486056e0a8eb5e,Forrest Seafood Kitchen,VA,44,4.2,2
+0x89b6bf99f5337eb1:0xf1e9bb7eca58f878,JT's Bourbon Street Grille,VA,118,3.9,2
+0x89ba9562a22e987d:0xe515df34b45f65a0,Fat Fish Restaurant,VA,56,4.2,2
+0x89b9685a70263f4f:0xd42cd4c6ccb6a49,The Jackspot 2014,VA,16,3.4,1
+0x885ac8d1d7203169:0x94838e4a6df23ef3,Captain D's,VA,234,4.2,3
+0x89b5efb73c5fec89:0xd39a3d900cb8bfa2,Long John Silver's,VA,0,3.0,1
+0x89b10e23cf3079af:0x1dae25e250c322e4,Sam's Crab House,VA,240,4.4,3
+0x89b16bebf6542ca3:0xf9a5a0ce159809aa,Awful Arthurs Seafood Co. Raw Bar & Restaurant Henrico,VA,101,4.3,2
+0x89ba986d68b5e663:0x81e8207b7eef9837,Voila,VA,109,4.7,2
+0x89baecbc7805cb8d:0xe4661ee9e81db32,TradeWinds Restaurant,VA,54,3.3,2
+0x89b3898d441c63b1:0x7353ec4683f0ba5a,Riverbirch Restaurant,VA,16,4.2,1
+0x89b6f8b469222e51:0xa1b49ce0f1e816bb,"Jerry's Seafood 15211 LANSDALE BLVDB , Bowie Md",VA,0,5.0,1
+0x89b9683a25ac9377:0x78a77aa8c4c9f7a3,The Crab Shack 2008,VA,77,4.3,2
+0x89baebcfbf5321cf:0x309ad22dbb55cc8b,Yummi Crab,VA,129,4.4,2
+0x884ff116f2e16b21:0xa2789c491c822c85,Long John Silver's,VA,60,4.0,2
+0x89ba942c48ffffff:0xfedae381ac9d1947,Phoenix Restaurant and Lounge,VA,117,4.2,2
+0x89b65ce17fe5fea3:0xd1895be95af809ec,Ostioneria Michoacan Seafood & Oyster Bar,VA,73,4.1,2
+0x89ba981a4d789b27:0xca93302e9e6beb06,Twin Seafood,VA,0,4.4,1
+0x89ba83237dc871b7:0x3f9990e8045ed306,Joe's Crab Shack,VA,80,3.5,2
+0x89baa063c6882571:0xa2724e9c94528dc2,Yummy Chinese Restaurant,VA,48,3.4,2
+0x89b2086b7f641b9d:0xc7dd6272b0f2ae74,Ameri-Kor Seafood LLC,VA,33,4.4,1
+0x89b109749ca06571:0xd573b6376654a8f1,The Crab Dump,VA,29,3.9,1
+0x89b16b37f1cc6917:0x9e8cc22afd8a0970,Long John Silver's,VA,12,2.4,1
+0x89ba830559d05833:0x23c29fbec590a48c,Kings Seafood,VA,45,4.3,2
+0x89b2ad208d5281fb:0x8582909aa41f3807,J.T.'s at the Lavalette House,VA,59,4.4,2
+0x89b2d712622b6fc9:0xed29d58128db9e36,The Dahlia,VA,0,4.5,1
+0x89ba59e6cac6965d:0x647a3e69acda9a34,Rick’s Maine Lobster 2019,VA,0,5.0,1
+0x89ba8506b9a6ebc5:0x7b383c3e3599369f,M & A Seafood,VA,97,4.3,2
+0x89b63f3e164e97cf:0x78a30d807c5bdd66,Mahana Poke,VA,24,3.3,1
+0x89ba967543dc2281:0xa20b16ff58d83744,Surf Rider West,VA,51,3.9,2
+0x89ba82c1614a8ded:0xc10436dc0beb0aeb,Long John Silver's,VA,333,3.8,3
+0x89b16a7daabc45c3:0xd7841aed6cd0d3d4,Captain D's,VA,13,3.6,1
+0x89b639c3fb427b4d:0x4260d9c666e0e454,Ocean Blue Island Grill,VA,61,4.1,2
+0x89b6377d511efca3:0x47d6ea5af630f842,King Wok,VA,26,3.8,1
+0x89b645e3e2f789d7:0xc6c78652fd3d5298,Bonefish Grill,VA,275,4.4,3
+0x89bac0c1c57965c1:0x1351d4f8922198e3,The Landing,VA,148,4.5,2
+0x89b65c750c873ef1:0x43767fadabb0f8ff,Mackey's American Pub,VA,89,3.7,2
+0x89ba82f0d54159a7:0xe893ea02f7331b91,Catch N Release Seafood Bar and Grill,VA,65,4.1,2
+0x8852b480023afd11:0xe0ab2f6bbaef6afe,The Schoolfield Restaurant,VA,46,4.5,2
+0x89baa32d79d5afbd:0x9b338ad01161e81c,DIVERS CHICKEN & SHRIMP,VA,140,4.4,2
+0x89ad639677c5cdb3:0x529889c813698623,Breedlove's Seafood,VA,37,4.5,1
+0x89b6560db26d328f:0x25b4cc885ee22d07,Popeyes Louisiana Kitchen,VA,107,3.7,2
+0x884e2d18768498b1:0xdb9f7e0f5804aa96,Long John Silver's,VA,70,4.0,2
+0x89b63d0b5887b879:0x5d5c12c4333d5bf3,"Sakura Japanese Steak, Seafood House & Sushi Bar",VA,114,4.3,2
+0x89b2174c14b8d3f9:0x5143fe00c426de7e,Moe's Italian Restaurant,VA,66,4.2,2
