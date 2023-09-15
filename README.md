@@ -46,4 +46,12 @@ Google Functions permitió la implementación de nuestro script de Python para c
 Para obtener una descripción detallada de cómo implementamos Google Functions para obtener los datos de YELP y almacenarlos en un Bucket de Google Storage, consulte el archivo "FuncionYelp.ipynb".
 
 ### Stack Tecnologico
+- Google Drive con la data inicial
+- Google Scheduler para programar la ejecución de funciones.
+- Google Function para ejecutar las tareas de ETL de la data
+- Google Storage para almacenar la data sin procesamiento
+- Google BigQuery para generar Tablas relacionales
+- Google Looker Studio para implementar un Dashboard 
+- API Yelp para generar informacíon actualizada de los comercios
+- Streamlit para implementar una interfaz de modelo de recomendación
 ![Stack Tecnologico](./Imagenes/stack_tecnologico.jpg)
