@@ -22,8 +22,8 @@ class MultiApp:
 app = MultiApp()
 
 # Agregar las aplicaciones que deseas
-app.add_app("Bienvenido", Bienvenido)
-app.add_app("Portal de Consultas", Portal_de_Consultas)
-app.add_app("Datos por Estados", Datos_por_Estados)
+app.add_app("Bienvenido", Bienvenido.app)
+app.add_app("Portal de Consultas", Portal_de_Consultas.app)
+app.add_app("Datos por Estados", Datos_por_Estados.app)
 
 app.run()
