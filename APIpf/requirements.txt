@@ -34,7 +34,7 @@ pytz-deprecation-shim==0.1.0.post0
 referencing
 requests
 rich==13.5.2
-rpds-py
+rpds-py==0.10.3
 scikit-learn
 scipy
 six
