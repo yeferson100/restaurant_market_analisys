@@ -181,3 +181,6 @@ if st.button('Calcular Similitud'):
         st.write(f'Similitud entre los restaurantes ID {id_rest1} y ID {id_rest2}: <span style="color: darkblue;">{similitud:.2f}</span>', unsafe_allow_html=True)
     except ValueError:
         st.write('Por favor, ingrese IDs válidos antes de calcular la similitud.')
+
+if __name__ == "__main__":
+    app()
