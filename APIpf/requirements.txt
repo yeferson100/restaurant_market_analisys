@@ -23,6 +23,7 @@ numpy
 packaging
 pandas
 Pillow
+pip==23.2.1
 protobuf
 pyarrow
 pydeck
@@ -34,7 +35,7 @@ pytz-deprecation-shim==0.1.0.post0
 referencing
 requests
 rich==13.5.2
-rpds-py==0.10.3
+rpds-py==0.10.2
 scikit-learn
 scipy
 six
