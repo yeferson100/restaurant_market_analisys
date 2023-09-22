@@ -78,4 +78,5 @@ if st.button('Consultar'):  # Agrega un botón para iniciar la consulta
     st.write(f'Consumo potencial en el Estado de {option}:',
              f'<span style="color: darkblue;"> {resultado[f"Consumo potencial en el Estado de {option}"]}</span>',unsafe_allow_html=True)
 
-             
+if __name__ == "__main__":
+    app()         
