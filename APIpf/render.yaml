@@ -1,0 +1,8 @@
+build:
+  steps:
+    - name: Update pip
+      script:
+        - pip install --upgrade pip
+    - name: Install Dependencies
+      script:
+        - pip install -r requirements.txt
