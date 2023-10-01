@@ -102,6 +102,6 @@ Por último, la carpeta <em>documentacion</em> contiene una serie de archivos qu
 ### Enlaces:
 Looker: https://lookerstudio.google.com/reporting/9790a648-f9cc-4c3f-a798-89fe829d7c3f/page/isZcD?utm_source=canva&utm_medium=iframely
 
-Deploy: https://sistemaderecomendacion.streamlit.app/
+Deploy: https://sistemaderecomendacion.streamlit.app
 
 Video: https://www.youtube.com/watch?v=_xc1YLeIemY
