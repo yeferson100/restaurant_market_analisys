@@ -104,4 +104,6 @@ Looker: https://lookerstudio.google.com/reporting/9790a648-f9cc-4c3f-a798-89fe82
 
 Deploy: https://sistemaderecomendacion.streamlit.app
 
+Funcionamiento del modelo de Machine Learning: https://vimeo.com/888861823?share=copy
+
 Video: https://www.youtube.com/watch?v=_xc1YLeIemY
